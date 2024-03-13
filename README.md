@@ -28,7 +28,7 @@
 
 # [CÁC BƯỚC CẦN THIẾT](#top)
 ## 1. Thu thập dữ liệu 
-### a. Nguồn dữ liệu:
+### a. Nguồn dữ liệu: 
 ### b. Công cụ sử dụng:
 ### c. Bộ dữ liệu thu thập được:
   

@@ -1,0 +1,1520 @@
+building_type,squares,nums_bedroom,nums_wc,nums_floor,furniture,price,project_names,streets,wards,districts
+Căn hộ chung cư,88.0,3,2,1,Cơ bản,9.5,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,88.0,3,2,1,Đầy đủ,9.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,7.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,92.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,56.0,3,2,1,Cao cấp,15.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,80.0,1,1,1,Đầy đủ,16.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,12.0,Dự án Eco Green Sài Gòn,Đường Nguyễn Văn Linh,Phường Tân Thuận Tây,7
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,11.0,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Tân Thuận Tây,7
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,17.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,77.0,2,2,1,Đầy đủ,15.5,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,38.0,1,1,1,Đầy đủ,9.0,Dự án Sunrise City View,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,18.0,Dự án Masteri Millennium,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,69.0,2,2,1,Đầy đủ,8.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,7.5,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,56.0,1,1,1,Đầy đủ,15.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,7.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,66.66,2,1,1,Cơ bản,8.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,53.0,2,1,1,Cơ bản,7.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,76.0,2,2,1,Cao cấp,15.0,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,56.0,1,1,1,Đầy đủ,7.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,77.0,2,2,1,Đầy đủ,22.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,10.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,51.0,1,1,1,Đầy đủ,11.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,50.0,1,1,1,Cơ bản,13.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,26.0,1,1,1,Cao cấp,7.3,Không thuộc dự án,Đường Phùng Văn Cung,Phường 7,Phú Nhuận
+Căn hộ chung cư,50.0,1,1,1,Có tiện nghi cơ bản,9.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,44.0,1,1,1,Đầy đủ,9.0,Dự án Centana Thủ Thiêm,36 Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,150.0,4,3,1,Đầy đủ,43.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,100.0,3,2,1,Đầy đủ,27.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,97.0,3,2,1,Đầy đủ,11.0,Dự án Centana Thủ Thiêm,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,66.0,2,2,1,Đầy đủ,8.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,75.0,2,2,1,Cơ bản,8.5,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,16.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,9.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,18.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,9.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,112.0,2,2,1,Cơ bản,14.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,86.0,2,2,1,Cơ bản,18.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,56.0,2,1,1,Đầy đủ,5.5,Dự án Căn hộ Ricca Quận 9,Đường Gò Cát,Phường Phú Hữu,9
+Căn hộ chung cư,81.0,2,2,1,Đầy đủ,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,6.0,Dự án Sài Gòn Gateway,Đường Xa Lộ Hà Nội,Phường Hiệp Phú,9
+Căn hộ chung cư,92.0,2,2,1,Đầy đủ,19.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,66.0,2,1,1,Đầy đủ,7.0,Dự án Lavita Charm,Đường Số 10,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,44.0,1,1,1,Đầy đủ,9.0,Dự án Centana Thủ Thiêm,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,77.0,2,2,1,Đầy đủ,25.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,10.0,Dự án Celadon City,Đường Tân Thắng,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,15.0,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,88.0,2,2,1,Đầy đủ,26.0,Dự án Sarimi Sala,Đường Mai Chí Thọ,Phường An Lợi Đông,2
+Căn hộ chung cư,106.0,2,2,1,Đầy đủ,36.0,Dự án Sunwah Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,96.0,2,2,1,Cơ bản,16.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,125.0,3,2,1,Đầy đủ,18.0,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,8.0,Dự án Lavita Garden,Đường 3,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,9.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,92.0,2,2,1,Đầy đủ,12.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,63.0,2,2,1,Đầy đủ,7.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,18.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,10.0,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,15.0,Dự án Sunrise City View,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,70.0,2,1,1,Đầy đủ,15.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,59.0,1,1,1,Cơ bản,15.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,7.0,Dự án Lavita Charm,Đường 1,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,57.0,1,1,1,Đầy đủ,7.0,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,7.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,66.66,2,2,1,Đầy đủ,13.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,90.0,3,2,1,Đầy đủ,15.0,Dự án River Panorama,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,54.0,1,1,1,Đầy đủ,9.0,Dự án Căn hộ Precia Quận 2,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,71.0,2,2,1,Đầy đủ,14.0,Dự án Căn hộ Precia Quận 2,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,9.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,75.0,2,2,1,Cơ bản,15.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,90.0,2,2,1,Cơ bản,18.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,120.0,3,2,1,Đầy đủ,26.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,187.7,4,3,1,Đầy đủ,50.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,15.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,59.0,2,2,1,Đầy đủ,6.0,Dự án Vinhomes Grand Park,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,19.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,14.0,Dự án Kingston Residence,Đường Nguyễn Văn Trỗi,Phường 8,Phú Nhuận
+Căn hộ chung cư,87.0,2,2,1,Đầy đủ,36.0,Dự án Thảo Điền Green,Đường Nguyễn Văn Hưởng,Phường Thảo Điền,2
+Căn hộ chung cư,47.0,3,2,1,Đầy đủ,3.5,Dự án Vinhomes Grand Park,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Căn hộ chung cư,92.0,2,2,1,Đầy đủ,21.0,Dự án Sadora Sala,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,96.0,2,2,1,Cơ bản,15.0,Dự án Diamond Centery Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,65.0,2,2,1,Cơ bản,10.5,Dự án RichStar,Đường Hòa Bình,Phường Hiệp Tân,Tân Phú
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,19.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,64.0,1,1,1,Đầy đủ,18.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,65.0,2,2,1,Cơ bản,13.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,9.0,Dự án Lucky Dragon,Đường Đỗ Xuân Hợp,Phường Phước Long B,9
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,24.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,99.0,2,2,1,Đầy đủ,18.0,Dự án Midtown Phú Mỹ Hưng,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,14.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,60.0,2,2,1,Đầy đủ,7.0,Dự án Flora Novia,Đường Phạm Văn Đồng,Phường Linh Tây,Thủ Đức
+Căn hộ chung cư,140.0,3,3,1,Cao cấp,34.0,Dự án The River Thủ Thiêm,Đường Nguyễn Cơ Thạch,Phường An Khánh,2
+Căn hộ chung cư,87.0,2,2,1,Đầy đủ,19.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,61.0,1,1,1,Đầy đủ,16.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,56.0,1,1,1,Không nội thất,18.0,Dự án Masteri Millennium,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,115.0,3,2,1,Đầy đủ,45.0,Dự án Saigon Royal Residence,Đường Bến Vân Đồn,Phường 12,4
+Căn hộ chung cư,60.0,2,1,1,Đầy đủ,12.0,Dự án Terra Royal,Đường Nam Kỳ Khởi Nghĩa,Phường Võ Thị Sáu,3
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,14.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,103.0,2,2,1,Đầy đủ,23.0,Dự án The Vista An Phú,Đường Xa Lộ Hà Nội,Phường An Phú,2
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,10.0,Dự án Lexington Residence,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,18.0,Dự án HaDo Centrosa Garden,200 Đường 3/2,Phường 12,10
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,19.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,74.0,2,2,1,Không nội thất,10.0,Dự án Sky Garden 3,Đường Phạm Văn Nghị,Phường Tân Phong,7
+Căn hộ chung cư,66.0,2,2,1,Có tiện nghi cơ bản,8.0,Dự án Chung cư Huỳnh Tấn Phát,Đường Huỳnh Tấn Phát,Phường Phú Thuận,7
+Căn hộ chung cư,106.0,3,2,1,Không nội thất,28.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,103.0,3,2,1,Cao cấp,20.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,61.0,2,2,1,Đầy đủ,15.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,90.0,2,2,1,Có tiện nghi cơ bản,12.0,Dự án Constrexim Copac Square,Đường Tôn Đản,Phường 13,4
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,11.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,64.0,2,1,1,Cơ bản,8.0,Dự án Lavita Garden,Đường 3,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,7.0,Dự án Lavita Garden,Đường 3,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,6.0,Dự án Lavita Garden,Đường 3,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,172.0,4,4,1,Đầy đủ,67.0,Dự án The Vista An Phú,Đường Xa Lộ Hà Nội,Phường An Phú,2
+Căn hộ chung cư,79.0,2,2,1,Đầy đủ,9.5,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,90.0,2,2,1,Cơ bản,7.0,Dự án The Era Town,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,8.0,Dự án Lavita Garden,Đường 3,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,55.0,2,1,1,Đầy đủ,10.5,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,21.0,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,56.0,2,1,1,Đầy đủ,8.5,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,84.0,2,2,1,Đầy đủ,9.0,Dự án Oriental Plaza,Đường Âu Cơ,Phường Tân Thành,Tân Phú
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,Đường Trường Chinh,Phường Tân Thới Nhất,12
+Căn hộ chung cư,68.5,2,2,1,Đầy đủ,10.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,44.0,1,1,1,Đầy đủ,9.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,64.0,1,1,1,Cơ bản,9.0,Không thuộc dự án,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,11.0,Dự án Sunrise City View,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,99.0,2,2,1,Đầy đủ,12.0,Dự án Sunrise City,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,97.0,3,2,1,Đầy đủ,11.5,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,15.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,67.0,2,2,1,Đầy đủ,11.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,90.0,2,2,1,Cao cấp,16.5,Dự án Saigon Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,66.66,2,2,1,Đầy đủ,11.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,27.5,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,13.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,74.0,2,2,1,Đầy đủ,11.0,Dự án 41Bis Điện Biên Phủ,Đường Điện Biên Phủ,Phường 25,Bình Thạnh
+Căn hộ chung cư,75.0,2,2,1,Cơ bản,8.5,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,14.0,Dự án Florita Đức Khải,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,7.0,Dự án Centum Wealth,Đường Phan Chu Trinh,Phường Hiệp Phú,9
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Hoàng Hoa Thám,Phường 13,Tân Bình
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,7.5,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,75.0,3,2,1,Đầy đủ,11.0,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,7.0,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,8.5,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Trần Quang Diệu,Phường 13,3
+Căn hộ chung cư,55.0,1,1,1,Đầy đủ,15.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,118.0,3,2,1,Đầy đủ,25.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,99.0,2,2,1,Đầy đủ,18.0,Dự án Sunrise City,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,10.0,Dự án Sunrise City View,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,70.0,2,2,1,Cơ bản,7.5,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,49.0,1,1,1,Đầy đủ,6.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,9.0,Không thuộc dự án,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,9.0,Dự án Sky Garden 3,Đường Phạm Văn Nghị,Phường Tân Phong,7
+Căn hộ chung cư,130.0,3,2,1,Đầy đủ,47.0,Dự án Sunwah Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,83.0,2,2,1,Đầy đủ,20.0,Dự án Midtown Phú Mỹ Hưng,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,96.0,2,2,1,Cơ bản,15.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,103.0,2,3,1,Cơ bản,14.0,Dự án Him Lam Riverside,Đường D1,Phường Tân Hưng,7
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,17.0,Dự án Saigon Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,20.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,10.0,Dự án Sky 89,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,86.0,3,2,1,Đầy đủ,16.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,19.0,Dự án Xi Grand Court,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,114.0,3,2,1,Cơ bản,12.0,Dự án An Gia Skyline,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,107.0,3,2,1,Đầy đủ,23.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,48.5,1,1,1,Cao cấp,9.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,109.0,3,3,1,Cơ bản,25.0,Dự án Xi Grand Court,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,14.0,Dự án New City Thủ Thiêm,17 Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,107.0,3,2,1,Đầy đủ,35.0,Dự án Masteri Millennium,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,65.0,2,2,1,Có tiện nghi cơ bản,7.5,Dự án Prosper Plaza,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Căn hộ chung cư,48.0,1,1,1,Đầy đủ,6.5,Dự án The Era Town,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,72.0,2,2,1,Cơ bản,12.0,Dự án Sky 89,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,8.5,Không thuộc dự án,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,110.0,3,2,1,Đầy đủ,64.0,Dự án The Marq,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Căn hộ chung cư,66.0,2,2,1,Cơ bản,8.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,6.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,8.0,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,102.0,3,2,1,Đầy đủ,20.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,106.0,3,2,1,Đầy đủ,28.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,13.0,Dự án Palm Heights,Đường Song Hành,Phường An Phú,2
+Căn hộ chung cư,74.0,2,2,1,Đầy đủ,13.5,Không thuộc dự án,Đường Nguyễn Văn Trỗi,Phường 8,Phú Nhuận
+Căn hộ chung cư,74.0,2,2,1,Đầy đủ,18.0,Dự án Lavida Plus,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,8.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,87.0,3,2,1,Đầy đủ,11.0,Dự án Lavita Charm,Đường 1,Phường Trường Thọ,Thủ Đức
+Căn hộ chung cư,82.0,2,2,1,Cơ bản,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,115.0,3,2,1,Đầy đủ,18.0,Dự án Docklands Sài Gòn,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,19.0,Dự án Midtown Phú Mỹ Hưng,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,20.5,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,20.0,Dự án Midtown Phú Mỹ Hưng,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,73.0,2,2,1,Có tiện nghi cơ bản,10.0,Dự án Hoàng Anh Thanh Bình,Đường 17,Phường Tân Hưng,7
+Căn hộ chung cư,33.0,1,1,1,Đầy đủ,11.0,Dự án Charmington La Pointe,Đường Cao Thắng,Phường 12,10
+Căn hộ chung cư,78.0,2,2,1,Đầy đủ,10.0,Dự án Carillon 7,Đường Lương Minh Nguyệt,Phường Tân Thới Hòa,Tân Phú
+Căn hộ chung cư,56.0,2,1,1,Đầy đủ,8.0,Dự án River Panorama,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,89.0,2,2,1,Đầy đủ,17.0,Dự án Saigon Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,204.0,4,3,1,Đầy đủ,40.0,Dự án Vista Verde,Đường Phan Văn Đáng,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,68.0,2,2,1,Cơ bản,7.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,78.0,2,2,1,Đầy đủ,16.0,Dự án Kingdom 101,Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,7.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,76.0,2,2,1,Đầy đủ,11.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,32.0,1,1,1,Đầy đủ,12.0,Không thuộc dự án,Đường Bến Vân Đồn,Phường 12,4
+Căn hộ chung cư,100.0,3,2,1,Đầy đủ,25.0,Dự án Vinhomes Central Park,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,57.0,1,1,1,Đầy đủ,16.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,88.0,2,2,1,Cơ bản,18.5,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,52.0,1,1,1,Đầy đủ,18.0,Dự án Sunwah Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,54.0,2,2,1,Đầy đủ,6.0,Dự án Prosper Plaza,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Căn hộ chung cư,67.0,2,2,1,Đầy đủ,9.0,Dự án Moonlight Residences,Đường Đặng Văn Bi,Phường Bình Thọ,Thủ Đức
+Căn hộ chung cư,50.0,2,1,1,Đầy đủ,7.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,17.0,Dự án Terra Royal,Đường Nam Kỳ Khởi Nghĩa,Phường Võ Thị Sáu,3
+Căn hộ chung cư,51.0,2,1,1,Đầy đủ,7.5,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,89.0,2,2,1,Đầy đủ,17.0,Dự án De Capella,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,88.0,2,2,1,Cao cấp,19.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,116.0,3,2,1,Cao cấp,27.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,12.0,Dự án ST Moritz Phạm Văn Đồng,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Căn hộ chung cư,114.0,3,2,1,Đầy đủ,19.0,Không thuộc dự án,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,20.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,76.0,2,2,1,Đầy đủ,12.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,73.0,2,2,1,Đầy đủ,15.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,56.0,1,1,1,Đầy đủ,9.0,Dự án Sky 89,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,79.0,2,2,1,Đầy đủ,8.0,Dự án Topaz Elite,Đường Cao Lỗ,Phường 4,8
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,13.0,Dự án Saigon Asiana,Đường Nguyễn Văn Luông,Phường 12,6
+Căn hộ chung cư,54.0,2,2,1,Đầy đủ,7.0,Không thuộc dự án,Đường Nguyễn Văn Dung,Phường 6,Gò Vấp
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,16.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,76.0,2,2,1,Đầy đủ,13.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,66.0,2,1,1,Đầy đủ,6.0,Dự án Conic Riverside,Đường Phạm Thế Hiển,Phường 7,8
+Căn hộ chung cư,81.0,2,2,1,Cơ bản,21.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,124.0,3,2,1,Đầy đủ,35.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,17.5,Dự án Chung cư Vĩnh Hội Quận 4,Đường Vĩnh Hội,Phường 4,4
+Căn hộ chung cư,31.0,1,1,1,Có tiện nghi cơ bản,9.0,Dự án Charmington La Pointe,Đường 3/2,Phường 12,10
+Căn hộ chung cư,78.0,2,2,1,Đầy đủ,8.0,Dự án Topaz Elite,Đường Cao Lỗ,Phường 4,8
+Căn hộ chung cư,95.0,3,2,1,Đầy đủ,21.0,Dự án Eco Green Sài Gòn,Đường Nguyễn Văn Linh,Phường Tân Thuận Tây,7
+Căn hộ chung cư,86.0,3,2,1,Đầy đủ,17.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,97.0,2,2,1,Đầy đủ,25.0,Dự án Pearl Plaza,Đường Điện Biên Phủ,Phường 25,Bình Thạnh
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.0,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,15.0,Dự án Grand Riverside,Đường Bến Vân Đồn,Phường 2,4
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Phạm Văn Hai,Phường 5,Tân Bình
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,20.0,Dự án Midtown Phú Mỹ Hưng,Đường Tân Phú,Phường Tân Phú,7
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,17.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,64.0,2,2,1,Đầy đủ,8.0,Dự án River Panorama,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,84.0,3,2,1,Đầy đủ,13.0,Dự án RichStar,Đường Hòa Bình,Phường Hiệp Tân,Tân Phú
+Căn hộ chung cư,74.0,2,2,1,Cơ bản,16.0,Dự án Rivera Park Sài Gòn,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,73.0,2,2,1,Đầy đủ,16.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Cao Thắng,Phường 12,10
+Căn hộ chung cư,78.0,2,2,1,Đầy đủ,19.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Trần Hưng Đạo,Phường Cô Giang,1
+Căn hộ chung cư,88.0,2,2,1,Đầy đủ,22.0,Dự án Sadora Sala,Đường Mai Chí Thọ,Phường An Lợi Đông,2
+Căn hộ chung cư,106.0,3,3,1,Đầy đủ,20.0,Dự án Sunshine Sky City ,Đường Phú Thuận,Phường Tân Phú,7
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,14.0,Không thuộc dự án,Đường Bến Vân Đồn,Phường 12,4
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,17.0,Dự án Kingston Residence,Đường Nguyễn Văn Trỗi,Phường 8,Phú Nhuận
+Căn hộ chung cư,101.0,3,2,1,Đầy đủ,12.0,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,55.0,1,1,1,Đầy đủ,16.5,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,86.0,2,2,1,Không nội thất,17.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,18.0,Dự án Intresco Plaza,Đường Lý Chính Thắng,Phường 8,3
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,14.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Căn hộ chung cư,56.0,1,1,1,Đầy đủ,17.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,54.0,1,1,1,Đầy đủ,16.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,74.0,2,2,1,Cơ bản,15.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Căn hộ chung cư,48.5,2,1,1,Cơ bản,9.0,Dự án Lexington Residence,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,53.0,2,1,1,Cơ bản,8.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,120.0,2,2,1,Đầy đủ,32.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,75.0,2,2,1,Cơ bản,15.0,Dự án Rivera Park Sài Gòn,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,70.0,2,2,1,Không nội thất,20.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,24.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,66/16 Đường Phạm Ngọc Thạch,Phường Võ Thị Sáu,3
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Vĩnh Viễn,Phường 5,10
+Căn hộ chung cư,60.0,1,1,1,Đầy đủ,11.5,Không thuộc dự án,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Căn hộ chung cư,115.0,2,2,1,Đầy đủ,42.0,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,15.5,Dự án Grand Riverside,Đường Bến Vân Đồn,Phường 2,4
+Căn hộ chung cư,56.0,1,1,1,Cơ bản,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,78.0,3,2,1,Đầy đủ,18.0,Dự án Florita Đức Khải,Đường D1,Phường Tân Hưng,7
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,13.0,Dự án M-One Nam Sài Gòn,Đường Bế Văn Cấm,Phường Tân Kiểng,7
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,8.5,Dự án Tecco Linh Đông,Đường Linh Đông,Phường Linh Trung,Thủ Đức
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,17.0,Dự án Feliz En Vista,Đường Phan Văn Đáng,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,96.0,3,2,1,Đầy đủ,18.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,20.0,Dự án The Antonia,Đường Nguyễn Lương Bằng,Phường Tân Phú,7
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,17.0,Dự án The Prince Residence,Đường Nguyễn Văn Trỗi,Phường 12,Phú Nhuận
+Căn hộ chung cư,64.0,2,2,1,Cơ bản,7.0,Dự án Căn hộ 8X Plus Trường Chinh,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Căn hộ chung cư,74.0,2,2,1,Đầy đủ,17.0,Dự án Masteri An Phú,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,20.0,Dự án The Ascentia,Đường Nguyễn Lương Bằng,Phường Tân Phú,7
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,31.0,Dự án The Marq,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,11.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Căn hộ chung cư,54.0,1,1,1,Đầy đủ,9.0,Dự án Căn hộ Precia Quận 2,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,72.0,2,2,1,Cao cấp,10.5,Không thuộc dự án,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,12.0,Dự án Florita Đức Khải,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,97.0,3,2,1,Đầy đủ,11.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,51.0,1,1,1,Cơ bản,9.0,Dự án Căn hộ Precia Quận 2,24 Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,51.0,2,1,1,Đầy đủ,9.0,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,63.0,2,2,1,Đầy đủ,8.5,Không thuộc dự án,Đường Tản Đà,Phường 10,5
+Căn hộ chung cư,90.0,2,2,1,Cao cấp,20.0,Dự án Diamond Island,Đường 104,Phường Bình Trưng Tây,2
+Căn hộ chung cư,54.0,1,1,1,Đầy đủ,14.0,Dự án Republic Plaza,Đường Cộng Hòa,Phường 4,Tân Bình
+Căn hộ chung cư,83.0,2,2,1,Đầy đủ,17.0,Không thuộc dự án,Đường Nguyễn Văn Trỗi,Phường 8,Phú Nhuận
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,12.0,Dự án Eco Green Sài Gòn,Đường Nguyễn Văn Linh,Phường Tân Thuận Tây,7
+Căn hộ chung cư,88.0,2,2,1,Đầy đủ,24.0,Dự án Sarimi Sala,Đường Mai Chí Thọ,Phường An Lợi Đông,2
+Căn hộ chung cư,36.0,1,1,1,Đầy đủ,9.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Căn hộ chung cư,56.0,1,1,1,Cơ bản,5.5,Dự án Căn hộ Ricca Quận 9,Đường Gò Cát,Phường Phú Hữu,9
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,19.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,55.0,2,1,1,Có tiện nghi cơ bản,8.0,Dự án River Panorama,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,16.0,Dự án Terra Royal,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Căn hộ chung cư,54.0,2,2,1,Đầy đủ,6.5,Dự án Prosper Plaza,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,16.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,12.0,Dự án RichStar,Đường Hòa Bình,Phường Hiệp Tân,Tân Phú
+Căn hộ chung cư,97.0,3,2,1,Đầy đủ,16.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,17.0,Không thuộc dự án,Đường Nguyễn Văn Trỗi,Phường 12,Phú Nhuận
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,16.0,Không thuộc dự án,Đường Nguyễn Văn Lạc,Phường 17,Bình Thạnh
+Căn hộ chung cư,97.0,3,2,1,Đầy đủ,10.0,Dự án The Era Town,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,15.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,100.0,3,2,1,Đầy đủ,25.0,Dự án Happy Valley,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,18.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,120.0,3,2,1,Đầy đủ,25.0,Dự án Vinhomes Central Park,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,67.0,2,2,1,Đầy đủ,8.5,Dự án Q7 Saigon Riverside,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,18.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,22.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,68.0,2,2,1,Đầy đủ,14.0,Dự án Saigon Asiana,Đường Nguyễn Văn Luông,Phường 12,6
+Căn hộ chung cư,129.0,3,3,1,Đầy đủ,25.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,12.5,Không thuộc dự án,Đường Nguyễn Trãi,Phường Phạm Ngũ Lão,1
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,9.0,Dự án Charmington La Pointe,Đường Cao Thắng,Phường 12,10
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,18.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,59.0,2,2,1,Đầy đủ,6.5,Dự án Citi Soho,Đường 39 - CL,Phường Cát Lái,2
+Căn hộ chung cư,121.0,3,2,1,Đầy đủ,29.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,56.0,2,1,1,Đầy đủ,7.8,Dự án Akari City Nam Long,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,15.0,Dự án Botanica Premier,Đường Bạch Đằng,Phường 2,Tân Bình
+Căn hộ chung cư,73.0,2,2,1,Cơ bản,7.0,Dự án Diamond Riverside,Đường Võ Văn Kiệt,Phường 16,8
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,24.0,Dự án River Gate,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,55.0,1,1,1,Cơ bản,18.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,16.0,Dự án Kingdom 101,334 Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,15.0,Dự án Florita Đức Khải,Đường D1,Phường Tân Hưng,7
+Căn hộ chung cư,60.0,2,2,1,Đầy đủ,11.5,Dự án Terra Royal,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,20.0,Dự án Midtown Phú Mỹ Hưng,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Căn hộ chung cư,79.0,2,2,1,Đầy đủ,16.0,Dự án Kingdom 101,334 Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,140.0,3,2,1,Đầy đủ,21.0,Dự án Saigon Pearl,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Căn hộ chung cư,74.0,2,2,1,Đầy đủ,18.0,Dự án Masteri Millennium,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,5.6,Không thuộc dự án,Đường Nguyễn Văn Lượng,Phường 6,Gò Vấp
+Căn hộ chung cư,54.0,1,1,1,Đầy đủ,10.0,Dự án CityLand Park Hills,18 Đường Phan Văn Trị,Phường 10,Gò Vấp
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,11.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Căn hộ chung cư,75.0,2,2,1,Có tiện nghi cơ bản,12.5,Dự án Cityland Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,20.0,Không thuộc dự án,Đường Nguyễn Trọng Lội,Phường 4,Tân Bình
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,19.0,Dự án The Landmark 81,Đường Điện Biên Phủ,Phường 22,Bình Thạnh
+Căn hộ chung cư,64.2,1,1,1,Đầy đủ,23.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,12.0,Dự án Masteri Millennium,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,8.5,Dự án Lexington Residence,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,88.8,2,2,1,Cơ bản,13.0,Dự án Celadon City,Đường N1,Phường Sơn Kỳ,Tân Phú
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Tân Định,1
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,14.0,Dự án Chung cư Vĩnh Hội Quận 4,Đường Vĩnh Hội,Phường 4,4
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,20.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,70.0,1,1,1,Đầy đủ,20.0,Dự án City Garden,59 Đường Ngô Tất Tố,Phường 21,Bình Thạnh
+Căn hộ chung cư,51.68,1,1,1,Đầy đủ,30.0,Dự án The Marq,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,3.0,Dự án Vinhomes Grand Park,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Căn hộ chung cư,70.0,2,1,1,Đầy đủ,15.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,7.0,Dự án Mỹ Phước,Đường Bùi Hữu Nghĩa,Phường 2,Bình Thạnh
+Căn hộ chung cư,100.0,2,2,1,Đầy đủ,19.0,Dự án Grand Riverside,Đường Bến Vân Đồn,Phường 2,4
+Căn hộ chung cư,38.0,1,1,1,Đầy đủ,11.0,Dự án Sunrise City View,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,115.0,3,2,1,Cơ bản,40.0,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,160.0,4,3,1,Đầy đủ,35.0,Dự án Vista Verde,Đường Phan Văn Đáng,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,51.0,1,1,1,Đầy đủ,13.5,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,16.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,102.0,3,2,1,Đầy đủ,22.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,51.0,1,1,1,Đầy đủ,15.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,62.0,2,2,1,Đầy đủ,16.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,94.0,2,2,1,Đầy đủ,30.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,98.0,3,2,1,Cơ bản,29.0,Dự án D’Lusso,Đường Nguyễn Thị Định,Phường An Phú,2
+Căn hộ chung cư,64.0,1,1,1,Cơ bản,18.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,70.0,2,2,1,Cơ bản,8.0,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,50.0,2,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,10.0,Dự án The Sun Avenue,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,140.0,3,4,1,Đầy đủ,23.0,Dự án The Vista An Phú,Đường Xa Lộ Hà Nội,Phường An Phú,2
+Căn hộ chung cư,130.0,3,2,1,Đầy đủ,23.0,Dự án The Estella,Đường Xa Lộ Hà Nội,Phường An Phú,2
+Căn hộ chung cư,100.0,3,2,1,Đầy đủ,18.0,Dự án Grand Riverside,Đường Bến Vân Đồn,Phường 2,4
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,18.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,11.0,Dự án Viva Riverside,Đường Võ Văn Kiệt,Phường 3,6
+Căn hộ chung cư,60.0,2,2,1,Đầy đủ,6.5,Dự án Sunview Town,Đường Gò Dưa,Phường Hiệp Bình Phước,Thủ Đức
+Căn hộ chung cư,57.0,2,2,1,Đầy đủ,6.5,Dự án Sunview Town,Đường Gò Dưa,Phường Hiệp Bình Phước,Thủ Đức
+Căn hộ chung cư,50.0,1,1,1,Cao cấp,10.5,Không thuộc dự án,Đường Nguyễn Ngọc Phương,Phường 19,Bình Thạnh
+Căn hộ chung cư,55.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Phan Đình Phùng,Phường 2,Phú Nhuận
+Căn hộ chung cư,38.0,1,1,1,Cao cấp,10.9,Không thuộc dự án,Đường 19,Phường Bình An,2
+Căn hộ chung cư,58.0,1,1,1,Đầy đủ,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,58.0,1,1,1,Đầy đủ,15.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,82.0,2,2,1,Có tiện nghi cơ bản,18.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,127.0,3,3,1,Đầy đủ,23.0,Dự án Sunrise City,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,24.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,71.16,2,2,1,Đầy đủ,12.0,Dự án Saigonres Plaza,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,82.0,2,2,1,Cơ bản,28.0,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,50.0,1,1,1,Cơ bản,6.0,Dự án EHome 3,Đường Hồ Học Lãm,Phường An Lạc,Bình Tân
+Căn hộ chung cư,81.0,2,2,1,Đầy đủ,13.0,Dự án One Verandah Mapletree,Đường Bát Nàn,Phường Thạnh Mỹ Lợi,2
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,14.0,Dự án Xi Grand Court,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,60.0,1,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Căn hộ chung cư,80.0,2,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 11,10
+Căn hộ chung cư,80.0,2,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 9,Phú Nhuận
+Căn hộ chung cư,60.0,1,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 11,3
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,15.0,Dự án Grand Riverside,Đường Bến Vân Đồn,Phường 2,4
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,10.0,Dự án Saigon Asiana,Đường Nguyễn Văn Luông,Phường 12,6
+Căn hộ chung cư,68.0,2,2,1,Cơ bản,19.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,12.0,Dự án Galaxy 9,Đường Nguyễn Khoái,Phường 2,4
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,9.5,Không thuộc dự án,Đường Thạch Thị Thanh,Phường Tân Định,1
+Căn hộ chung cư,115.0,3,2,1,Đầy đủ,40.0,Dự án The Metropole Thủ Thiêm ,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,24.0,Dự án Masteri Thảo Điền,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Căn hộ chung cư,126.0,3,2,1,Đầy đủ,39.5,Dự án The River Thủ Thiêm,Đường Nguyễn Cơ Thạch,Phường An Khánh,2
+Căn hộ chung cư,50.0,1,1,1,Cao cấp,11.0,Không thuộc dự án,Đường Trần Kế Xương,Phường 7,Phú Nhuận
+Căn hộ chung cư,69.0,2,2,1,Đầy đủ,7.0,Dự án Vinhomes Grand Park,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Căn hộ chung cư,104.0,3,3,1,Đầy đủ,20.0,Dự án Galaxy 9,Đường Nguyễn Khoái,Phường 2,4
+Căn hộ chung cư,115.0,3,2,1,Cơ bản,15.0,Dự án Sky 89,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,110.0,3,3,1,Đầy đủ,55.0,Dự án The Metropole,Đường Trần Não,Phường An Khánh,2
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 13,Phú Nhuận
+Căn hộ chung cư,82.0,2,2,1,Đầy đủ,17.0,Dự án Kingdom 101,Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,14.0,Dự án Golden Mansion,Đường Phổ Quang,Phường 9,Phú Nhuận
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Nguyễn Ngọc Phương,Phường 19,Bình Thạnh
+Căn hộ chung cư,60.0,1,1,1,Đầy đủ,16.0,Dự án HaDo Centrosa Garden,Đường 3/2,Phường 12,10
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,10.0,Dự án RichStar,Đường Hòa Bình,Phường Hiệp Tân,Tân Phú
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,14.5,Dự án Galaxy 9,Đường Nguyễn Khoái,Phường 2,4
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,17.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường D5,Phường 25,Bình Thạnh
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường D5,Phường 25,Bình Thạnh
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Quy,7
+Căn hộ chung cư,130.0,3,2,1,Đầy đủ,65.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,85.0,3,1,1,Đầy đủ,9.0,Dự án Lotus Garden,Đường Trịnh Đình Thảo,Phường Hòa Thạnh,Tân Phú
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,15.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,130.0,3,2,1,Đầy đủ,23.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,51.0,1,1,1,Đầy đủ,12.0,Dự án New City Thủ Thiêm,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Căn hộ chung cư,79.0,2,2,1,Đầy đủ,23.0,Dự án Vinhomes Golden River Ba Son,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,14.5,Dự án Florita Đức Khải,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,13.0,Dự án Lavida Plus,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,11.0,Dự án Lexington Residence,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,16.5,Dự án Terra Royal,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Căn hộ chung cư,90.0,3,2,1,Đầy đủ,16.0,Dự án River Panorama,Đường Hoàng Quốc Việt,Phường Phú Thuận,7
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,17.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Trường Sơn,Phường 4,Tân Bình
+Căn hộ chung cư,95.0,3,2,1,Đầy đủ,12.0,Không thuộc dự án,Đường Phạm Văn Đồng,Phường 3,Gò Vấp
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,15.0,Dự án Sunshine Sky City ,Đường Đào Trí,Phường Phú Thuận,7
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 24,Bình Thạnh
+Căn hộ chung cư,65.0,2,2,1,Đầy đủ,6.0,Dự án Phố Đông Residences,Đường Trường Lưu,Phường Long Trường,9
+Căn hộ chung cư,150.0,3,2,1,Đầy đủ,14.0,Không thuộc dự án,Đường Bông Sao,Phường 5,8
+Căn hộ chung cư,153.0,3,2,1,Đầy đủ,55.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,127.0,3,2,1,Đầy đủ,50.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,127.0,3,2,1,Cơ bản,48.0,Dự án Empire City Thủ Thiêm,Đường Mai Chí Thọ,Phường Thủ Thiêm,2
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,16.0,Dự án Riva Park,Đường Nguyễn Tất Thành,Phường 18,4
+Căn hộ chung cư,80.0,3,2,1,Đầy đủ,18.0,Dự án Florita Đức Khải,Đường D1,Phường Tân Hưng,7
+Căn hộ chung cư,118.0,3,2,1,Đầy đủ,42.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,60.0,2,1,1,Đầy đủ,18.0,Không thuộc dự án,Đường Bến Vân Đồn,Phường 12,4
+Căn hộ chung cư,118.0,3,2,1,Đầy đủ,47.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,13.0,Dự án River Gate,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,118.0,3,2,1,Cơ bản,42.0,Dự án Diamond Island,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Căn hộ chung cư,74.0,2,2,1,Cao cấp,16.0,Dự án Rivera Park Sài Gòn,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,33.0,1,1,1,Đầy đủ,4.0,Dự án Vinhomes Grand Park,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Căn hộ chung cư,36.0,1,1,1,Đầy đủ,9.5,Dự án Orchard Garden,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,8.8,Không thuộc dự án,Đường Nguyễn Văn Mại,Phường 4,Tân Bình
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Giải Phóng,Phường 4,Tân Bình
+Căn hộ chung cư,60.0,2,1,1,Đầy đủ,9.5,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Căn hộ chung cư,60.0,2,1,1,Đầy đủ,11.0,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,7.3,Không thuộc dự án,Đường Lạc Long Quân,Phường 10,Tân Bình
+Căn hộ chung cư,45.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Tân Thuận Tây,Phường Bình Thuận,7
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,5.0,Dự án Phú Mỹ Hưng,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Tăng Bạt Hổ,Phường 11,Bình Thạnh
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Phan Tây Hồ,Phường 7,Phú Nhuận
+Căn hộ chung cư,53.0,1,1,1,Đầy đủ,13.0,Dự án Botanica Premier,Đường Bạch Đằng,Phường 2,Tân Bình
+Căn hộ chung cư,80.0,2,1,1,Đầy đủ,10.8,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Bá Huân,Phường Thảo Điền,2
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Lê Quang Định,Phường 11,Bình Thạnh
+Căn hộ chung cư,50.0,2,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Đinh Bộ Lĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,73.0,2,2,1,Đầy đủ,11.0,Dự án Richmond City,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,71.0,2,2,1,Đầy đủ,9.0,Dự án Saigonres Plaza,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Xí,Phường 13,Bình Thạnh
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.3,Không thuộc dự án,Đường Cộng Hòa,Phường 12,Tân Bình
+Căn hộ chung cư,28.0,1,1,1,Đầy đủ,12.0,Dự án River Gate,Đường Bến Vân Đồn,Phường 6,4
+Căn hộ chung cư,30.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 4,Phú Nhuận
+Căn hộ chung cư,100.0,3,2,1,Đầy đủ,13.0,Dự án Viva Riverside,Đường Võ Văn Kiệt,Phường 3,6
+Căn hộ chung cư,60.0,2,1,1,Đầy đủ,14.0,Dự án Galaxy 9,Đường Nguyễn Khoái,Phường 2,4
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,10.0,Dự án Q7 Boulevard,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Căn hộ chung cư,86.0,2,2,1,Đầy đủ,10.0,Không thuộc dự án,Đường Hậu Giang,Phường 11,6
+Căn hộ chung cư,77.0,2,2,1,Đầy đủ,13.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Căn hộ chung cư,49.0,1,1,1,Cơ bản,6.5,Dự án Safira Khang Điền,Đường Võ Chí Công,Phường Phú Hữu,9
+Căn hộ chung cư,67.0,2,2,1,Đầy đủ,6.5,Dự án Khang An,Đường Võ Chí Công,Phường Phú Hữu,9
+Căn hộ chung cư,50.0,2,1,1,Cơ bản,7.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,16.0,Dự án Xi Grand Court,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,60.0,2,2,1,Đầy đủ,7.5,Dự án Topaz Elite,Đường Cao Lỗ,Phường 4,8
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,10.0,Dự án Oriental Plaza,Đường Âu Cơ,Phường Tân Thành,Tân Phú
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường 3/2,Phường 14,10
+Căn hộ chung cư,40.0,1,1,1,Đầy đủ,6.5,Dự án Phú Mỹ Hưng,Đường Bùi Bằng Đoàn,Phường Tân Phong,7
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,20.0,Không thuộc dự án,Đường An Dương Vương,Phường 4,5
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,17.0,Dự án Terra Royal,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Căn hộ chung cư,73.0,2,2,1,Đầy đủ,17.0,Dự án Kingdom 101,Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,11.0,Dự án Republic Plaza,Đường Cộng Hòa,Phường 4,Tân Bình
+Căn hộ chung cư,94.0,2,2,1,Cơ bản,22.0,Dự án The River Thủ Thiêm,Đường Nguyễn Cơ Thạch,Phường An Khánh,2
+Căn hộ chung cư,85.0,2,2,1,Đầy đủ,16.0,Dự án Kingdom 101,Đường Tô Hiến Thành,Phường 14,10
+Căn hộ chung cư,80.0,2,2,1,Đầy đủ,16.0,Dự án Golden Mansion,Đường Phổ Quang,Phường 9,Phú Nhuận
+Căn hộ chung cư,90.0,2,2,1,Đầy đủ,16.0,Dự án The Gold View,Đường Bến Vân Đồn,Phường 1,4
+Căn hộ chung cư,190.0,3,2,1,Đầy đủ,19.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 1,Tân Bình
+Căn hộ chung cư,95.0,3,2,1,Đầy đủ,13.0,Dự án RichStar,Đường Hòa Bình,Phường Hiệp Tân,Tân Phú
+Căn hộ chung cư,119.0,3,2,1,Đầy đủ,30.0,Dự án Kingston Residence,Đường Nguyễn Văn Trỗi,Phường 8,Phú Nhuận
+Căn hộ chung cư,36.0,1,1,1,Đầy đủ,6.5,Dự án Phú Mỹ Hưng,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Căn hộ chung cư,35.0,1,1,1,Đầy đủ,5.5,Dự án Him Lam Riverside,Đường D1,Phường Tân Hưng,7
+Căn hộ chung cư,97.0,2,2,1,Đầy đủ,9.5,Không thuộc dự án,Đường Phú Thuận,Phường Phú Thuận,7
+Căn hộ chung cư,50.0,2,1,1,Cơ bản,7.5,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,65.0,2,2,1,Cơ bản,8.5,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,75.0,2,2,1,Đầy đủ,15.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Căn hộ chung cư,58.0,2,1,1,Đầy đủ,14.0,Dự án Diamond Lotus,Đường Lê Quang Kim,Phường 8,8
+Căn hộ chung cư,58.0,2,1,1,Đầy đủ,13.0,Không thuộc dự án,Đường Lê Quang Kim,Phường 8,8
+Căn hộ chung cư,50.0,1,1,1,Đầy đủ,12.5,Dự án Newton Residence,Đường Trương Quốc Dung,Phường 8,Phú Nhuận
+Căn hộ chung cư,70.0,2,2,1,Đầy đủ,13.5,Không thuộc dự án,Đường Hồng Hà,Phường 9,Phú Nhuận
+Căn hộ chung cư,90.0,3,2,1,Đầy đủ,10.0,Dự án The Western Capital,Đường Lý Chiêu Hoàng,Phường 10,6
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,14.5,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Căn hộ chung cư,52.0,1,1,1,Đầy đủ,13.0,Dự án Republic Plaza,Đường Cộng Hòa,Phường 4,Tân Bình
+Căn hộ chung cư,72.0,2,2,1,Đầy đủ,17.0,Dự án Newton Residence,Đường Trương Quốc Dung,Phường 8,Phú Nhuận
+Căn hộ chung cư,36.0,1,1,1,Đầy đủ,10.0,Dự án Sky Center,Đường Phổ Quang,Phường 2,Tân Bình
+Nhà trọ phòng trọ,36.0,1,1,1,Không nội thất,2.0,Không thuộc dự án,Đường Lò Lu,Phường Trường Thạnh,9
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 1,Tân Bình
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 12,10
+Nhà trọ phòng trọ,26.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Cống Quỳnh,Phường Nguyễn Cư Trinh,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Bá Huân,Phường Thảo Điền,2
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường 3/2,Phường 12,10
+Nhà trọ phòng trọ,18.0,1,1,1,Cơ bản,3.5,Dự án Tam Bình,Đường 3,Phường Tam Bình,Thủ Đức
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,32.0,1,1,1,Không nội thất,5.0,Không thuộc dự án,66/13 Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.9,Không thuộc dự án,Đường Huỳnh Tấn Phát,Phường Tân Thuận Đông,7
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Bùi Đình Túy,Phường 24,Bình Thạnh
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,3
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Lũy Bán Bích,Phường Phú Thạnh,Tân Phú
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường Ung Văn Khiêm,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,13.0,1,1,1,Đầy đủ,2.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,19.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Số 20,Phường 5,Gò Vấp
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường 12,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Đinh Bộ Lĩnh,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Trần Bình Trọng,Phường 5,Bình Thạnh
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Nguyễn Văn Mai,Phường Võ Thị Sáu,3
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Liên Phường,Phường Phước Long B,9
+Nhà trọ phòng trọ,22.0,1,1,1,Có tiện nghi cơ bản,2.7,Không thuộc dự án,Đường Thoại Ngọc Hầu,Phường Phú Thạnh,Tân Phú
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,44 Đường Nguyễn Cửu Vân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.3,Không thuộc dự án,Đường Nguyễn Cảnh Chân,Phường Cầu Kho,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Có tiện nghi cơ bản,3.0,Không thuộc dự án,Đường 11,Phường Phú Thuận,7
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Tân Hương,Phường Tân Quý,Tân Phú
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,4.0,Không thuộc dự án,Đường Vườn Lài,Phường An Phú Đông,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,30/11 Đường Nguyễn Văn Dung,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,40.0,1,1,1,Có tiện nghi cơ bản,1.3,Không thuộc dự án,Đường Lê Lợi,Phường 4,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường 14,Phường Tân Hưng,7
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.5,Dự án Khang An,25A Đường 24,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Ngô Tất Tố,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Nguyễn Trãi,Phường Bến Thành,1
+Nhà trọ phòng trọ,94.0,1,1,1,Đầy đủ,8.9,Dự án De Capella,Đường Mai Chí Thọ,Phường Bình Khánh,2
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Hồng Bàng,Phường 9,6
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Bàu Bàng,Phường 13,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Nguyễn Văn Thương,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,5,Đầy đủ,5.5,Không thuộc dự án,Đường Trần Văn Quang,Phường 10,Tân Bình
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Văn Lượng,Phường 10,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.7,Không thuộc dự án,Đường Số 2,Phường Tân Quy,7
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,7.9,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 9,10
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Tân Quy,Phường Tân Quy,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Tân Quy,Phường Tân Quy,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.7,Không thuộc dự án,633/45 Đường Điện Biên Phủ,Phường 1,3
+Nhà trọ phòng trọ,78.0,2,2,3,Đầy đủ,4.3,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,78.0,2,2,3,Đầy đủ,4.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,12.0,1,1,1,Có tiện nghi cơ bản,2.4,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Phong,7
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Văn Trỗi,Phường 15,Phú Nhuận
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Huỳnh Tịnh Của,Phường 19,Bình Thạnh
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,11.9,Không thuộc dự án,Đường Nguyễn Cửu Vân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Liên Phường,Phường Phước Long B,9
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,111 Đường 55 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Lâm Văn Bền,Phường Tân Kiểng,7
+Nhà trọ phòng trọ,40.0,2,1,1,Đầy đủ,5.3,Không thuộc dự án,Đường Kênh Tân Hóa,Phường Phú Trung,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường Nơ Trang Long,Phường 7,Bình Thạnh
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nơ Trang Long,Phường 7,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.3,Không thuộc dự án,Đường Tân Hương,Phường Tân Quý,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Lý Thường Kiệt,Phường 14,10
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.8,Không thuộc dự án,Đường Phan Tây Hồ,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.3,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Quy,7
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.4,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Quy,7
+Nhà trọ phòng trọ,100.0,1,1,1,Có tiện nghi cơ bản,11.0,Dự án Him Lam Kênh Tẻ,Đường D4,Phường Tân Hưng,7
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.6,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,38.0,1,1,1,Cao cấp,10.9,Không thuộc dự án,Đường 19,Phường Bình An,2
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,1243 Đường Hoàng Sa,Phường 5,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Cơ bản,3.8,Không thuộc dự án,Đường Nguyễn Văn Dung,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Phi Khanh,Phường Tân Định,1
+Nhà trọ phòng trọ,35.0,1,1,1,Cao cấp,7.5,Không thuộc dự án,31 Đường Tân Hải,Phường 13,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 15,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,4,Đầy đủ,5.4,Không thuộc dự án,Đường Số 79,Phường Tân Quy,7
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Bùi Quang Là,Phường 12,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Nguyễn Văn Lượng,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.8,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 16,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Nguyễn Trãi,Phường Nguyễn Cư Trinh,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,2.7,Không thuộc dự án,Đường Lê Văn Quới,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Dự án Sadeco ven sông,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường 9,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường 9,Phường Tân Phong,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.6,Không thuộc dự án,Đường Hoàng Hoa Thám,Phường 6,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Điện Biên Phủ,Phường 15,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,3.2,Không thuộc dự án,174/1 Đường Số 20,Phường 5,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 8,Phú Nhuận
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Lê Văn Việt,Phường Tăng Nhơn Phú A,Thủ Đức
+Nhà trọ phòng trọ,15.0,1,2,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Phúc Nguyên,Phường 10,3
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Phạm Văn Đồng,Phường Linh Tây,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.3,Không thuộc dự án,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Trãi,Phường Nguyễn Cư Trinh,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Cơ bản,4.0,Không thuộc dự án,Đường Hàn Thuyên,Phường Bình Thọ,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Cô Giang,Phường Cầu Ông Lãnh,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,729 Đường Phạm Thế Hiển,Phường 4,8
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,3.5,Không thuộc dự án,Đường Dương Đình Hội,Phường Phước Long B,9
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Trịnh Đình Trọng,Phường Phú Thạnh,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Dự án Citi Soho,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.7,Không thuộc dự án,730/5/25 Đường Lạc Long Quân,Phường 9,Tân Bình
+Nhà trọ phòng trọ,12.0,1,1,1,Có tiện nghi cơ bản,1.6,Không thuộc dự án,Đường Đào Trí,Phường Phú Thuận,7
+Nhà trọ phòng trọ,65.0,8,8,3,Đầy đủ,16.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 13,Gò Vấp
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Số 3 Cư xá Chu Văn An,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Văn Thương,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,6.7,Không thuộc dự án,Đường Tân Hương,Phường Tân Quý,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Thạch Thị Thanh,Phường Tân Định,1
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,450 Đường Sư Vạn Hạnh,Phường 9,10
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Bến Vân Đồn,Phường 6,4
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.6,Không thuộc dự án,Đường Lũy Bán Bích,Phường Tân Thành,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Trường Chinh,Phường 12,Tân Bình
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,217/28 Đường Xô Viết Nghệ Tĩnh,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,19A Đường Nguyễn Bá Huân,Phường Thảo Điền,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,19A Đường Nguyễn Bá Huân,Phường Thảo Điền,2
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Nguyễn Cửu Vân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,35/6 Đường Phạm Văn Đồng,Phường 3,Gò Vấp
+Nhà trọ phòng trọ,14.0,1,1,1,Không nội thất,2.3,Không thuộc dự án,Đường Dương Quảng Hàm,Phường 5,Gò Vấp
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,13.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Tân Định,1
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Dương Bá Trạc,Phường 1,8
+Nhà trọ phòng trọ,40.0,1,1,2,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Thái Bình,Phường Nguyễn Thái Bình,1
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Âu Dương Lân,Phường 2,8
+Nhà trọ phòng trọ,25.0,1,1,1,Không nội thất,4.8,Không thuộc dự án,Đường Đặng Văn Ngữ,Phường 10,Phú Nhuận
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Nguyễn Trãi,Phường Bến Thành,1
+Nhà trọ phòng trọ,35.0,1,1,5,Đầy đủ,5.8,Không thuộc dự án,Đường Trần Hưng Đạo,Phường Cầu Kho,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Man Thiện,Phường Tăng Nhơn Phú A,9
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Đình Chính,Phường 11,Phú Nhuận
+Nhà trọ phòng trọ,32.0,1,1,1,Cơ bản,3.2,Không thuộc dự án,Đường Quốc lộ 1A,Phường Tân Thới Hiệp,12
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,30.0,1,1,1,Cơ bản,5.8,Không thuộc dự án,73A/45 Đường Dương Bá Trạc,Phường 1,8
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.4,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,3
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Phùng Văn Cung,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.4,Không thuộc dự án,Đường Nguyễn Thượng Hiền,Phường 5,Phú Nhuận
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường 39,Phường Bình Trưng Đông,2
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 15,10
+Nhà trọ phòng trọ,16.0,1,1,1,Có tiện nghi cơ bản,3.6,Không thuộc dự án,Đường Trường Chinh,Phường Tân Hưng Thuận,12
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.3,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Bình Trị Đông,Bình Tân
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Điện Biên Phủ,Phường 4,3
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Lý Thường Kiệt,Phường 14,10
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Dương Bá Trạc,Phường 1,8
+Nhà trọ phòng trọ,15.0,1,1,1,Cơ bản,2.8,Dự án Citi Bella 2,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường 13,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,12.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,523/27 Đường Lê Văn Khương,Phường Hiệp Thành,12
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Bưng Ông Thoàn,Phường Tăng Nhơn Phú B,9
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Tân Kỳ Tân Quý,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,3.5,Không thuộc dự án,Đường Tân Sơn,Phường 12,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường 182,Phường Tăng Nhơn Phú A,9
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.3,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 15,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Số 6,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường 6,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 11,3
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Dương Thị Mười,Phường Trung Mỹ Tây,12
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Dân Trí,Phường 6,Tân Bình
+Nhà trọ phòng trọ,28.0,1,1,3,Đầy đủ,5.8,Không thuộc dự án,Đường Hoàng Sa,Phường 11,3
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.1,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 8,Phú Nhuận
+Nhà trọ phòng trọ,35.0,1,1,1,Cơ bản,4.7,Không thuộc dự án,Đường Dương Đình Hội,Phường Phước Long B,9
+Nhà trọ phòng trọ,85.0,2,1,1,Có tiện nghi cơ bản,10.5,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,2.6,Không thuộc dự án,Đường Trường Lưu,Phường Long Trường,9
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Lò Lu,Phường Trường Thạnh,9
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường 34,Phường Hiệp Bình Phước,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,Đường Nguyễn Thị Định,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,Đường Trường Chinh,Phường Tân Thới Nhất,12
+Nhà trọ phòng trọ,13.5,1,1,1,Đầy đủ,2.0,Không thuộc dự án,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Dương Thị Mười,Phường Tân Thới Hiệp,12
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,12.0,Không thuộc dự án,Đường Cộng Hòa,Phường 4,Tân Bình
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 8,Phú Nhuận
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Trần Huy Liệu,Phường 12,Phú Nhuận
+Nhà trọ phòng trọ,40.0,1,1,3,Đầy đủ,6.5,Không thuộc dự án,Đường Phan Tây Hồ,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 4,Tân Bình
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Thượng Hiền,Phường 5,Bình Thạnh
+Nhà trọ phòng trọ,28.0,1,1,1,Cơ bản,4.4,Không thuộc dự án,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,16.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Phú Thọ Hòa,Phường Phú Thọ Hòa,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Không nội thất,3.3,Không thuộc dự án,Đường Trần Quốc Tuấn,Phường 1,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,Đường Trường Chinh,Phường Tân Thới Nhất,12
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.8,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.8,Không thuộc dự án,Đường Bùi Thị Xuân,Phường Phạm Ngũ Lão,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Số 79,Phường Tân Quy,7
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,42B Đường 54,Phường Thảo Điền,2
+Nhà trọ phòng trọ,60.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,42B Đường 54,Phường Thảo Điền,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,2.9,Không thuộc dự án,Đường 19,Phường An Phú,2
+Nhà trọ phòng trọ,12.0,1,1,1,Đầy đủ,1.0,Không thuộc dự án,Đường Số 6,Phường Bình Chiểu,Thủ Đức
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường 8,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Phong,7
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,4.4,Không thuộc dự án,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Dự án Citi Soho,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Âu Dương Lân,Phường 2,8
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Phan Đình Phùng,Phường 13,Phú Nhuận
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Thạnh Lộc 15,Phường Thạnh Lộc,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,30.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Khuông Việt,Phường Phú Trung,Tân Phú
+Nhà trọ phòng trọ,18.0,1,1,1,Cơ bản,3.6,Không thuộc dự án,Đường Trường Chinh,Phường Tân Thới Nhất,12
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường Bùi Đình Túy,Phường 12,Bình Thạnh
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.8,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,4.5,Dự án Richmond City,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Cao cấp,10.0,Không thuộc dự án,Đường Nguyễn Cửu Vân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.8,Không thuộc dự án,Đường Huỳnh Tấn Phát,Phường Tân Phú,7
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.1,Không thuộc dự án,Đường Liên Khu 16-18,Phường Bình Trị Đông,Bình Tân
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.4,Không thuộc dự án,Đường 13A,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Kênh Nước Đen,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Lê Văn Quới,Phường Bình Trị Đông,Bình Tân
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,2.9,Không thuộc dự án,Đường Tên Lửa,Phường Bình Trị Đông B,Bình Tân
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Tân Sơn Nhì,Phường Tân Sơn Nhì,Tân Phú
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,6.8,Không thuộc dự án,Đường Xuân Hồng,Phường 4,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Huỳnh Thiện Lộc,Phường Hòa Thạnh,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường 3/2,Phường 11,10
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Hoàng Sa,Phường Đa Kao,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,17.0,1,1,1,Đầy đủ,3.5,Dự án Khu đô thị Cát Lái,Đường Đồng Văn Cống,Phường Cát Lái,2
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Phúc Chu,Phường 15,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Phú Thuận,Phường Phú Thuận,7
+Nhà trọ phòng trọ,30.0,1,1,2,Đầy đủ,5.8,Không thuộc dự án,Đường Hoa Lan,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Cô Giang,Phường 1,Phú Nhuận
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Âu Dương Lân,Phường 3,8
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Nhà trọ phòng trọ,40.0,1,1,2,Đầy đủ,5.4,Không thuộc dự án,Đường Số 30,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.7,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 15,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Võ Văn Hát,Phường Long Trường,9
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,5,Đầy đủ,6.5,Không thuộc dự án,Đường Quốc Lộ 13,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Võ Văn Hát,Phường Long Trường,9
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Số 6,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,36.0,1,1,3,Đầy đủ,8.8,Không thuộc dự án,Đường Nam Kỳ Khởi Nghĩa,Phường Võ Thị Sáu,3
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,16.0,Không thuộc dự án,Đường Nguyễn Bỉnh Khiêm,Phường Bến Nghé,1
+Nhà trọ phòng trọ,27.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Số 47,Phường Tân Quy,7
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,6.3,Không thuộc dự án,Đường Phan Đăng Lưu,Phường 6,Bình Thạnh
+Nhà trọ phòng trọ,36.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Thống Nhất,Phường 11,Gò Vấp
+Nhà trọ phòng trọ,27.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Ung Văn Khiêm,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,Đường Quang Trung,Phường 11,Gò Vấp
+Nhà trọ phòng trọ,27.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Khánh Hội,Phường 6,4
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Thống Nhất,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,11.5,Không thuộc dự án,Đường Đỗ Quang Đẩu,Phường Phạm Ngũ Lão,1
+Nhà trọ phòng trọ,30.0,1,1,1,Không nội thất,4.5,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 8,Phú Nhuận
+Nhà trọ phòng trọ,25.0,1,1,1,Không nội thất,4.9,Không thuộc dự án,Đường Bùi Văn Thêm,Phường 9,Phú Nhuận
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Trần Bình Trọng,Phường 1,5
+Nhà trọ phòng trọ,30.0,1,2,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,36.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Thống Nhất,Phường 16,Gò Vấp
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Bùi Đình Túy,Phường 24,Bình Thạnh
+Nhà trọ phòng trọ,10.0,1,1,1,Cơ bản,2.5,Dự án The Era Town,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Nhà trọ phòng trọ,50.0,1,1,1,Cơ bản,4.0,Không thuộc dự án,Đường Nguyễn Thị Định,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Lộc,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Dự án Thạnh Mỹ Lợi,Đường Trương Văn Bang,Phường Thạnh Mỹ Lợi,2
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,3.3,Không thuộc dự án,Đường Thạnh Xuân 43,Phường Thạnh Xuân,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.8,Dự án Khu đô thị Cát Lái,Đường 39 - CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,30.0,1,1,1,Cơ bản,4.2,Không thuộc dự án,Đường Nguyễn Thị Định,Phường Thạnh Mỹ Lợi,2
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Trần Quang Diệu,Phường 14,3
+Nhà trọ phòng trọ,75.0,2,2,3,Đầy đủ,9.0,Dự án 4S Riverside Linh Đông,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Phú Thuận,Phường Phú Thuận,7
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Phan Xích Long,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,1.0,Không thuộc dự án,Đường Lê Lợi,Phường 4,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường N1,Phường Sơn Kỳ,Tân Phú
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,10.8,Không thuộc dự án,Đường Lê Thánh Tôn,Phường Bến Nghé,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Phong,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Nguyễn Thị Định,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.9,Không thuộc dự án,Đường C18,Phường 12,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Xóm Chiếu,Phường 16,4
+Nhà trọ phòng trọ,24.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,963A1 Đường Lò Gốm,Phường 8,6
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,5.2,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,2.0,Không thuộc dự án,Đường Phan Huy Ích,Phường 12,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Hương lộ 2,Phường Bình Trị Đông A,Bình Tân
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.3,Không thuộc dự án,Đường Lê Đức Thọ,Phường 7,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Quy,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,278 Đường Nhật Tảo,Phường 8,10
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Số 2,Phường An Khánh,2
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,6.9,Không thuộc dự án,Đường Phan Thúc Duyện,Phường 4,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,72 Đường Nguyễn Hữu Cầu,Phường Tân Định,1
+Nhà trọ phòng trọ,17.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường 35CL,Phường Cát Lái,2
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.99,Không thuộc dự án,Đường Lê Lai,Phường 3,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Cầu Xây 2,Phường Tân Phú,9
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.1,Không thuộc dự án,Đường Số 14,Phường Phước Bình,9
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,3.8,Không thuộc dự án,Đường Đào Trí,Phường Phú Thuận,7
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,2.85,Không thuộc dự án,Đường Vĩnh Viễn,Phường 5,10
+Nhà trọ phòng trọ,17.0,1,1,1,Đầy đủ,3.3,Không thuộc dự án,Đường Lý Chính Thắng,Phường Võ Thị Sáu,3
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Đa Kao,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Hồ Hảo Hớn,Phường Cô Giang,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Tân Lập 2,Phường Hiệp Phú,9
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,3.0,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 11,Phú Nhuận
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà trọ phòng trọ,44.0,1,1,1,Đầy đủ,4.4,Không thuộc dự án,Đường Mã Lò,Phường Bình Trị Đông A,Bình Tân
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Bến Vân Đồn,Phường 2,4
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,79/27 Đường Số 2,Phường 3,Gò Vấp
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Dự án KĐT Vạn Phúc City,Đường Quốc Lộ 13,Phường Hiệp Bình Phước,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.4,Không thuộc dự án,72 Đường Lê Thị Riêng,Phường Bến Thành,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Lâm Văn Bền,Phường Tân Kiểng,7
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Lê Văn Thọ,Phường 11,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Lê Văn Thọ,Phường 11,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Nguyễn Văn Lượng,Phường 16,Gò Vấp
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường Trường Sa,Phường 14,3
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.4,Không thuộc dự án,Đường Nguyễn Oanh,Phường 17,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,102 Đường Lê Văn Thọ,Phường 11,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,2.7,Không thuộc dự án,Đường Thạnh Lộc 37,Phường Thạnh Lộc,12
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.3,Không thuộc dự án,Đường Lê Vĩnh Hòa,Phường Phú Thọ Hòa,Tân Phú
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,5.5,Không thuộc dự án,Đường Lê Vĩnh Hòa,Phường Phú Thọ Hòa,Tân Phú
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,5.2,Không thuộc dự án,Đường Lê Vĩnh Hòa,Phường Phú Thọ Hòa,Tân Phú
+Nhà trọ phòng trọ,20.0,1,1,1,Có tiện nghi cơ bản,3.5,Không thuộc dự án,134 Đường Yên Thế,Phường 2,Tân Bình
+Nhà trọ phòng trọ,26.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Lê Thị Riêng,Phường Bến Thành,1
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Tôn Thất Thuyết,Phường 16,4
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Trần Quang Diệu,Phường 13,3
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Trần Quang Diệu,Phường 13,3
+Nhà trọ phòng trọ,56.0,1,1,1,Cao cấp,4.0,Không thuộc dự án,Đường An Dương Vương,Phường An Lạc,Bình Tân
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Tô Ký,Phường Tân Chánh Hiệp,12
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Nhà trọ phòng trọ,22.0,1,1,1,Cao cấp,5.1,Không thuộc dự án,Đường Tân Hải,Phường 13,Tân Bình
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 4,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Võ Duy Ninh,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,35.0,2,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Trần Quốc Hoàn,Phường 4,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.6,Không thuộc dự án,Đường Số 6,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Tân Sơn Nhì,Phường Tân Sơn Nhì,Tân Phú
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Bình Trị Đông,Bình Tân
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.4,Không thuộc dự án,Đường Nguyễn Văn Đậu,Phường 5,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,175 Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.0,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Nhà trọ phòng trọ,28.0,1,1,1,Cơ bản,5.5,Không thuộc dự án,Đường Nguyễn Văn Thương,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Điện Biên Phủ,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Số 6,Phường Bình Hưng Hòa B,Bình Tân
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Tân Vĩnh,Phường 14,4
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.38,Không thuộc dự án,Đường Dương Đình Hội,Phường Phước Long B,9
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Hoàng Diệu,Phường 12,4
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Cao Thắng,Phường 12,10
+Nhà trọ phòng trọ,18.0,1,1,1,Không nội thất,4.9,Không thuộc dự án,Đường Trần Não,Phường Bình An,2
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 14,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,5.5,Không thuộc dự án,Đường Nguyễn Xí,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,7.3,Không thuộc dự án,Đường Điện Biên Phủ,Phường 15,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Trung Trực,Phường 5,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Nguyễn Văn Cừ,Phường Cầu Kho,1
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Trường Chinh,Phường 15,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Điện Biên Phủ,Phường 15,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,Đường An Dương Vương,Phường 4,5
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Thích Bửu Đăng,Phường 1,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,3.0,Không thuộc dự án,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Cơ bản,5.5,Không thuộc dự án,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Hồng Bàng,Phường 1,11
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Phú,7
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Phan Huy Ích,Phường 14,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.55,Không thuộc dự án,Đường Trương Đăng Quế,Phường 3,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nguyễn Oanh,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Số 4 Cư xá Đô Thành,Phường 4,3
+Nhà trọ phòng trọ,14.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,59/3 Đường Số 4 Cư xá Đô Thành,Phường 4,3
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Vũ Tùng,Phường 2,Bình Thạnh
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,1.9,Không thuộc dự án,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường 6,Phường Long Trường,Thủ Đức
+Nhà trọ phòng trọ,49.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Trương Phước Phan,Phường Bình Trị Đông B,Bình Tân
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.3,Không thuộc dự án,523/27 Đường Lê Văn Khương,Phường Hiệp Thành,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Trần Não,Phường An Khánh,Thủ Đức
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,1.3,Không thuộc dự án,Đường Hoàng Diệu,Phường 10,Phú Nhuận
+Nhà trọ phòng trọ,60.0,1,1,1,Đầy đủ,1.5,Không thuộc dự án,2A Đường Hoàng Diệu,Phường 10,Phú Nhuận
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,2.1,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,3
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Phan Xích Long,Phường 2,Phú Nhuận
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,3
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,5.7,Không thuộc dự án,Đường Nguyễn Minh Hoàng,Phường 12,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Đỗ Tấn Phong,Phường 9,Phú Nhuận
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Văn Thủ,Phường Đa Kao,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường 160,Phường Tăng Nhơn Phú A,9
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Tô Ngọc Vân,Phường Tam Bình,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Liên Phường,Phường Phước Long B,9
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 4,Phú Nhuận
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.7,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,45.0,1,1,1,Cơ bản,3.6,Không thuộc dự án,14/20 Đường số 4,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Số 38,Phường Tân Quy,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.8,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.3,Không thuộc dự án,Đường Võ Văn Kiệt,Phường 10,6
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Lê Văn Quới,Phường Bình Hưng Hòa A,Bình Tân
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Tên Lửa,Phường Bình Trị Đông B,Bình Tân
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Bình Trị Đông B,Bình Tân
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Nguyễn Trãi,Phường Cô Giang,1
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,Đường Số 7,Phường Bình Thọ,Thủ Đức
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,4.5,Không thuộc dự án,Đường Thạnh Mỹ Lợi,Phường Thạnh Mỹ Lợi,2
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.1,Không thuộc dự án,Đường Quốc Lộ 13,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,45.0,1,1,2,Đầy đủ,6.0,Không thuộc dự án,Đường Phan Văn Sửu,Phường 13,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Hoàng Sa,Phường Đa Kao,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Số 59,Phường 14,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,8.0,Không thuộc dự án,Đường Trường Sơn,Phường 15,10
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Số 59,Phường 14,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,2.0,Không thuộc dự án,Đường Lạc Long Quân,Phường 10,Tân Bình
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,7A Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Bành Văn Trân,Phường 7,Tân Bình
+Nhà trọ phòng trọ,15.0,1,1,1,Không nội thất,2.6,Không thuộc dự án,Đường Phan Văn Hân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Cộng Hòa,Phường 12,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Tân Thuận Tây,7
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Cô Giang,Phường Cầu Ông Lãnh,1
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,2.9,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Xuân,12
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Hồng Hà,Phường 2,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Bùi Đình Túy,Phường 24,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường D5,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường 30,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Cửu Long,Phường 2,Tân Bình
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 4,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Phạm Văn Đồng,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà trọ phòng trọ,32.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,633/45 Đường Điện Biên Phủ,Phường 1,3
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,4.7,Không thuộc dự án,633/45 Đường Điện Biên Phủ,Phường 1,3
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.8,Không thuộc dự án,425/3-5 Đường Nguyễn Đình Chiểu,Phường 5,3
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,6.2,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 12,3
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Văn Đậu,Phường 11,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Dự án Thạnh Mỹ Lợi,Đường Đồng Văn Cống,Phường Thạnh Mỹ Lợi,2
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.8,Không thuộc dự án,1358/26 Đường Quang Trung,Phường 14,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,2,Đầy đủ,5.3,Không thuộc dự án,Đường Vạn Kiếp,Phường 3,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Tân Vĩnh,Phường 4,4
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà trọ phòng trọ,30.0,3,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Dương Bá Trạc,Phường 3,8
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Dương Bá Trạc,Phường 1,8
+Nhà trọ phòng trọ,32.0,1,1,1,Đầy đủ,4.8,Không thuộc dự án,Đường Bông Sao,Phường 5,8
+Nhà trọ phòng trọ,38.0,1,1,1,Đầy đủ,7.8,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Đa Kao,1
+Nhà trọ phòng trọ,20.0,8,8,1,Đầy đủ,7.5,Không thuộc dự án,Đường Quốc Lộ 13,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Âu Cơ,Phường 10,Tân Bình
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 3,Gò Vấp
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Dự án The Sun Avenue,Đường Thân Văn Nhiếp,Phường An Phú,2
+Nhà trọ phòng trọ,8.0,1,1,1,Có tiện nghi cơ bản,1.7,Dự án The Era Town,Đường 15B,Phường Phú Mỹ,7
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Tôn Thất Thuyết,Phường 15,4
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Tôn Đản,Phường 10,4
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Dự án LuxGarden,Đường Nguyễn Văn Quỳ,Phường Phú Thuận,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Cô Bắc,Phường Cô Giang,1
+Nhà trọ phòng trọ,16.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nơ Trang Long,Phường 12,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.9,Không thuộc dự án,Đường Tân Sơn Nhì,Phường Tân Sơn Nhì,Tân Phú
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.8,Không thuộc dự án,Đường Tân Sơn Nhì,Phường Tân Sơn Nhì,Tân Phú
+Nhà trọ phòng trọ,38.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Hoàng Diệu,Phường 10,Phú Nhuận
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,1.6,Không thuộc dự án,Đường Liên Khu 5-6,Phường Bình Hưng Hòa B,Bình Tân
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Lạc Long Quân,Phường 3,11
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,4.1,Không thuộc dự án,Đường Bưng Ông Thoàn,Phường Tăng Nhơn Phú B,9
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.8,Không thuộc dự án,Đường Võ Duy Ninh,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,2.0,Dự án The Manhattan,Đường Nguyễn Xiển,Phường Long Thạnh Mỹ,9
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Trần Bình Trọng,Phường 5,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.3,Không thuộc dự án,Đường Chu Văn An,Phường 12,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.9,Không thuộc dự án,63 Đường Số 36,Phường Linh Đông,Thủ Đức
+Nhà trọ phòng trọ,20.0,1,1,1,Cơ bản,3.9,Không thuộc dự án,Đường Số 8,Phường Linh Trung,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.1,Không thuộc dự án,Đường Dương Văn Dương,Phường Sơn Kỳ,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,38.0,1,1,1,Đầy đủ,7.0,Không thuộc dự án,Đường Sông Đà,Phường 2,Tân Bình
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Thành Thái,Phường 14,10
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Đinh Bộ Lĩnh,Phường 24,Bình Thạnh
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,7.3,Không thuộc dự án,54 Đường Trần Kế Xương,Phường 3,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 11,Bình Thạnh
+Nhà trọ phòng trọ,50.0,2,1,1,Đầy đủ,10.0,Không thuộc dự án,Đường Sông Đà,Phường 2,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Phú Mỹ,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Nguyễn Trọng Lội,Phường 14,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà trọ phòng trọ,50.0,2,1,1,Đầy đủ,7.8,Không thuộc dự án,Đường Âu Cơ,Phường 10,Tân Bình
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà trọ phòng trọ,14.0,1,1,1,Đầy đủ,2.5,Không thuộc dự án,Đường Trần Trọng Cung,Phường Tân Thuận Đông,7
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Nguyễn Đỗ Cung,Phường Tây Thạnh,Tân Phú
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Nguyễn Quý Anh,Phường Sơn Kỳ,Tân Phú
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.5,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 4,Gò Vấp
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Âu Cơ,Phường 10,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Âu Cơ,Phường Phú Trung,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.9,Không thuộc dự án,Đường Trần Não,Phường An Khánh,Thủ Đức
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Tây Thạnh,Phường Tây Thạnh,Tân Phú
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Hoàng Diệu 2,Phường Linh Trung,Thủ Đức
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Tây Thạnh,Phường Tây Thạnh,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.8,Không thuộc dự án,Đường Âu Cơ,Phường 10,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,1.7,Không thuộc dự án,Đường Lê Trọng Tấn,Phường Sơn Kỳ,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.9,Không thuộc dự án,Đường Phan Văn Hân,Phường 17,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.7,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 12,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,Đường Huỳnh Văn Nghệ,Phường 15,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 12,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,Đường Phạm Văn Bạch,Phường 15,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Vũ Tùng,Phường 2,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Tô Hiến Thành,Phường 13,10
+Nhà trọ phòng trọ,45.0,1,1,1,Đầy đủ,6.3,Không thuộc dự án,Đường Trần Thái Tông,Phường 15,Tân Bình
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,2.3,Không thuộc dự án,Đường Phan Huy Ích,Phường 15,Tân Bình
+Nhà trọ phòng trọ,55.0,2,2,1,Đầy đủ,7.9,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 12,10
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,7.5,Không thuộc dự án,Đường Hòa Hảo,Phường 4,10
+Nhà trọ phòng trọ,40.0,1,1,1,Cơ bản,4.9,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường Bến Thành,1
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nguyễn Công Trứ,Phường Nguyễn Thái Bình,1
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.9,Không thuộc dự án,Đường Nguyễn Trãi,Phường Bến Thành,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Nguyễn Trãi,Phường Bến Thành,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.9,Không thuộc dự án,Đường Trịnh Đình Thảo,Phường Hòa Thạnh,Tân Phú
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,9.0,Không thuộc dự án,385/16 Đường Nguyễn Trãi,Phường Nguyễn Cư Trinh,1
+Nhà trọ phòng trọ,15.0,1,1,1,Đầy đủ,5.2,Không thuộc dự án,258/82 Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Dương Bá Trạc,Phường 2,8
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường 39,Phường Bình Trưng Đông,Thủ Đức
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.6,Không thuộc dự án,Đường Bùi Văn Thêm,Phường 9,Phú Nhuận
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Lê Đức Thọ,Phường 17,Gò Vấp
+Nhà trọ phòng trọ,28.0,1,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Hai Bà Trưng,Phường Tân Định,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,3.6,Dự án Hoàng Anh Thanh Bình,Đường Đào Trí,Phường Phú Thuận,7
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,3.9,Không thuộc dự án,Đường Nguyễn Thị Thập,Phường Tân Thuận Đông,7
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,2.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Tân Định,1
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Đinh Tiên Hoàng,Phường 3,Bình Thạnh
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Tôn Thất Đạm,Phường Bến Nghé,1
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.19,Không thuộc dự án,74/20 Đường Núi Thành,Phường 13,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.0,Dự án Bông Sao,Đường Bông Sao,Phường 5,8
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Công Trứ,Phường Nguyễn Thái Bình,1
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.5,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 2,Tân Bình
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.2,Không thuộc dự án,Đường Lam Sơn,Phường 2,Tân Bình
+Nhà trọ phòng trọ,32.0,2,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,Phú Nhuận
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Huỳnh Văn Gấm,Phường Tây Thạnh,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Hai Bà Trưng,Phường Tân Định,1
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Hòa Hưng,Phường 12,10
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.5,Dự án Sadeco ven sông,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà trọ phòng trọ,16.5,1,1,1,Có tiện nghi cơ bản,1.5,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Xuân,12
+Nhà trọ phòng trọ,12.0,1,1,1,Đầy đủ,2.0,Dự án The Era Town,Đường Nguyễn Lương Bằng,Phường Phú Mỹ,7
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,1.0,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 4,Gò Vấp
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,3.7,Không thuộc dự án,Đường Tân Kỳ Tân Quý,Phường Tân Quý,Tân Phú
+Nhà trọ phòng trọ,30.0,1,1,1,Cơ bản,5.4,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 25,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Nguyễn Văn Tăng,Phường Long Thạnh Mỹ,9
+Nhà trọ phòng trọ,28.0,1,1,2,Đầy đủ,5.4,Không thuộc dự án,Đường Hoàng Hoa Thám,Phường 6,Bình Thạnh
+Nhà trọ phòng trọ,38.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 13,Bình Thạnh
+Nhà trọ phòng trọ,18.0,2,1,1,Đầy đủ,3.2,Không thuộc dự án,Đường Lê Trọng Tấn,Phường Bình Hưng Hòa,Bình Tân
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.6,Không thuộc dự án,Đường Nguyễn Sơn,Phường Phú Thọ Hòa,Tân Phú
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,4.0,Không thuộc dự án,496/63 Đường Dương Quảng Hàm,Phường 6,Gò Vấp
+Nhà trọ phòng trọ,27.0,1,1,1,Đầy đủ,4.9,Không thuộc dự án,Đường Tô Hiến Thành,Phường 12,10
+Nhà trọ phòng trọ,22.0,1,1,1,Đầy đủ,6.5,Không thuộc dự án,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Nhà trọ phòng trọ,40.0,1,1,1,Đầy đủ,8.5,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà trọ phòng trọ,30.0,1,1,2,Đầy đủ,6.8,Không thuộc dự án,Đường Trần Quang Diệu,Phường 14,3
+Nhà trọ phòng trọ,35.0,1,1,1,Đầy đủ,5.5,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà trọ phòng trọ,35.0,1,1,1,Cơ bản,4.2,Không thuộc dự án,Đường Lê Văn Thịnh,Phường Bình Trưng Tây,2
+Nhà trọ phòng trọ,28.0,1,1,1,Đầy đủ,5.8,Không thuộc dự án,Đường Nguyễn Trãi,Phường Bến Thành,1
+Nhà trọ phòng trọ,36.0,1,1,1,Đầy đủ,4.5,Không thuộc dự án,Đường Trịnh Quang Nghị,Phường 7,8
+Nhà trọ phòng trọ,25.0,1,1,1,Cơ bản,4.8,Không thuộc dự án,Đường Phạm Hùng,Phường 5,8
+Nhà trọ phòng trọ,35.0,1,1,2,Đầy đủ,7.8,Không thuộc dự án,Đường Phan Xích Long,Phường 2,Phú Nhuận
+Nhà trọ phòng trọ,20.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Âu Cơ,Phường 14,11
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,5.0,Không thuộc dự án,Đường Âu Cơ,Phường 14,11
+Nhà trọ phòng trọ,32.0,1,1,1,Đầy đủ,6.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,Phú Nhuận
+Nhà trọ phòng trọ,50.0,1,1,1,Đầy đủ,7.2,Không thuộc dự án,Đường D4,Phường Tân Hưng,7
+Nhà trọ phòng trọ,25.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Tân Quý,Phường Tân Quý,Tân Phú
+Nhà trọ phòng trọ,18.0,1,1,1,Đầy đủ,3.0,Không thuộc dự án,Đường Nguyễn Văn Mai,Phường Võ Thị Sáu,3
+Nhà riêng,60.0,4,5,3,Không nội thất,30.0,Không thuộc dự án,47 Đường Vũ Chí Hiếu,Phường 13,5
+Nhà riêng,34.44,1,1,1,Đầy đủ,7.0,Không thuộc dự án,50/3/5A Đường Hòa Bình,Phường 5,11
+Nhà riêng,100.0,3,4,3,Cơ bản,15.0,Không thuộc dự án,Đường Tân Phước,Phường 6,10
+Nhà riêng,64.0,4,2,3,Cơ bản,10.0,Không thuộc dự án,Đường Liên khu 4-5,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,240.0,3,5,3,Cơ bản,24.0,Dự án Phú Lợi,Đường Phạm Thế Hiển,Phường 7,8
+Nhà riêng,98.0,6,4,4,Cơ bản,38.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,3
+Nhà riêng,75.0,3,3,3,Đầy đủ,13.0,Dự án Park Riverside Tân Cảng,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà riêng,95.0,2,2,2,Cơ bản,11.0,Không thuộc dự án,Đường Nguyễn Trọng Lội,Phường 14,Tân Bình
+Nhà riêng,84.0,4,4,3,Cơ bản,28.0,Không thuộc dự án,58/11 Đường Nguyễn Minh Hoàng,Phường 12,Tân Bình
+Nhà riêng,160.0,5,3,2,Cơ bản,20.0,Không thuộc dự án,Đường Vườn Lài,Phường Tân Thành,Tân Phú
+Nhà riêng,60.0,3,2,2,Có tiện nghi cơ bản,16.0,Không thuộc dự án,16/11 Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà riêng,100.0,4,5,4,Cơ bản,35.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,100.0,7,4,4,Cơ bản,40.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,75.0,4,3,3,Cơ bản,12.5,Dự án Mega Village,Đường Vành Đai 2,Phường Phú Hữu,9
+Nhà riêng,105.0,6,5,4,Đầy đủ,30.0,Không thuộc dự án,Đường Nguyễn Văn Mại,Phường 4,Tân Bình
+Nhà riêng,160.0,4,5,3,Cơ bản,22.0,Không thuộc dự án,Đường Hương lộ 2,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,82.0,4,4,4,Cơ bản,15.0,Không thuộc dự án,Đường Nguyễn Duy Trinh,Phường Bình Trưng Tây,2
+Nhà riêng,88.0,4,4,4,Đầy đủ,20.0,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 9,Gò Vấp
+Nhà riêng,95.0,4,2,2,Cơ bản,8.0,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Xuân,12
+Nhà riêng,38.0,2,1,2,Cơ bản,15.0,Không thuộc dự án,Đường Nguyễn Văn Mai,Phường Võ Thị Sáu,3
+Nhà riêng,100.0,4,4,3,Cơ bản,40.0,Dự án Cityland Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,60.0,2,2,2,Cơ bản,14.5,Không thuộc dự án,Đường Tân Hương,Phường Tân Quý,Tân Phú
+Nhà riêng,120.0,5,4,3,Cơ bản,12.0,Không thuộc dự án,Đường Nguyễn Thị Tú,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,90.0,5,5,3,Cơ bản,16.0,Không thuộc dự án,Đường Lê Hồng Phong,Phường 12,10
+Nhà riêng,60.0,2,2,2,Đầy đủ,6.0,Không thuộc dự án,Đường 79,Phường Phú Hữu,9
+Nhà riêng,125.0,5,2,3,Cơ bản,8.0,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Lộc,12
+Nhà riêng,56.0,1,1,1,Cơ bản,15.0,Không thuộc dự án,Đường Nguyễn Trãi,Phường Nguyễn Cư Trinh,1
+Nhà riêng,64.0,2,2,1,Cơ bản,12.0,Không thuộc dự án,66/10 Đường Phan Huy Ích,Phường 15,Tân Bình
+Nhà riêng,70.0,4,2,2,Không nội thất,13.0,Không thuộc dự án,Đường Nguyễn Thị Tần,Phường 2,8
+Nhà riêng,112.0,5,4,3,Cơ bản,14.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 7,Tân Bình
+Nhà riêng,49.0,2,1,2,Không nội thất,10.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 4,3
+Nhà riêng,30.0,3,3,4,Cơ bản,25.0,Không thuộc dự án,Đường Nguyễn Cảnh Chân,Phường Cầu Kho,1
+Nhà riêng,96.0,4,4,4,Đầy đủ,27.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,84.0,2,2,1,Cơ bản,9.0,Không thuộc dự án,Đường Vườn Lài,Phường Phú Thọ Hòa,Tân Phú
+Nhà riêng,40.0,2,1,1,Có tiện nghi cơ bản,5.0,Không thuộc dự án,Đường Lão Tử,Phường 11,5
+Nhà riêng,176.0,6,6,1,Cơ bản,25.0,Không thuộc dự án,Đường Khuông Việt,Phường Phú Trung,Tân Phú
+Nhà riêng,130.0,5,4,3,Cơ bản,30.0,Không thuộc dự án,Đường Hoa Lan,Phường 2,Phú Nhuận
+Nhà riêng,60.0,2,2,2,Cơ bản,8.0,Không thuộc dự án,Đường An Bình,Phường 6,5
+Nhà riêng,80.0,2,2,3,Cơ bản,5.0,Dự án Tam Bình,Đường 3,Phường Tam Bình,Thủ Đức
+Nhà riêng,66.0,3,1,2,Cơ bản,10.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 14,Bình Thạnh
+Nhà riêng,60.0,3,2,2,Cơ bản,8.5,Không thuộc dự án,Đường Số 59,Phường 14,Gò Vấp
+Nhà riêng,52.0,3,2,2,Cơ bản,14.0,Không thuộc dự án,Đường Hoa Sữa,Phường 7,Phú Nhuận
+Nhà riêng,100.0,2,5,5,Cơ bản,35.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,96.0,4,5,4,Cơ bản,27.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,90.0,4,4,3,Đầy đủ,15.0,Dự án KDC Nam Long,Đường Đỗ Xuân Hợp,Phường Phước Long B,9
+Nhà riêng,72.0,6,6,4,Cơ bản,16.0,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Lộc,12
+Nhà riêng,64.0,2,1,1,Cơ bản,9.5,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà riêng,144.0,5,4,3,Cơ bản,40.0,Không thuộc dự án,Đường Hoa Lan,Phường 7,Phú Nhuận
+Nhà riêng,60.0,3,2,2,Không nội thất,9.0,Không thuộc dự án,Đường Nguyễn Văn Khối,Phường 8,Gò Vấp
+Nhà riêng,100.0,4,5,3,Cơ bản,35.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,80.0,3,3,2,Đầy đủ,10.0,Dự án Park Riverside Tân Cảng,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà riêng,130.0,5,4,3,Cơ bản,20.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Nhà riêng,90.0,3,3,3,Cơ bản,20.0,Dự án Tháp Mười Merita,Đường Liên Phường,Phường Phước Long B,9
+Nhà riêng,50.6,4,3,2,Cơ bản,7.5,Dự án Hiệp Thành City,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Nhà riêng,100.0,3,4,4,Cơ bản,18.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường 4,Phú Nhuận
+Nhà riêng,100.0,6,6,4,Cơ bản,35.0,Không thuộc dự án,262/6A Đường Huỳnh Văn Bánh,Phường 11,Phú Nhuận
+Nhà riêng,115.0,5,6,4,Đầy đủ,65.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Tân Định,1
+Nhà riêng,72.0,3,3,3,Cơ bản,20.0,Không thuộc dự án,Đường Bùi Viện,Phường Phạm Ngũ Lão,1
+Nhà riêng,100.0,1,1,4,Cơ bản,6.0,Không thuộc dự án,Đường Liên Khu 45,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,21.0,2,3,4,Đầy đủ,10.0,Không thuộc dự án,Đường Chu Văn An,Phường 12,Bình Thạnh
+Nhà riêng,45.0,2,3,2,Cơ bản,13.0,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 21,Bình Thạnh
+Nhà riêng,24.0,1,2,2,Đầy đủ,8.0,Không thuộc dự án,Đường Nguyễn Hữu Cảnh,Phường 22,Bình Thạnh
+Nhà riêng,80.0,4,5,3,Đầy đủ,13.5,Không thuộc dự án,Đường Nguyễn Duy Trinh,Phường Phú Hữu,9
+Nhà riêng,26.0,1,1,2,Đầy đủ,13.5,Không thuộc dự án,Đường Nguyễn Cửu Vân,Phường 17,Bình Thạnh
+Nhà riêng,42.0,2,2,2,Có tiện nghi cơ bản,10.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường 4,Phú Nhuận
+Nhà riêng,96.0,4,5,4,Đầy đủ,27.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,30.0,2,2,2,Đầy đủ,16.0,Không thuộc dự án,Đường Hồ Thị Kỷ,Phường 1,10
+Nhà riêng,90.0,4,3,2,Đầy đủ,19.0,Không thuộc dự án,Đường Cộng Hòa,Phường 4,Tân Bình
+Nhà riêng,156.0,5,4,3,Cơ bản,40.0,Không thuộc dự án,Đường Trường Chinh,Phường Tân Hưng Thuận,12
+Nhà riêng,80.0,5,3,5,Đầy đủ,20.0,Không thuộc dự án,Đường Bông Sao,Phường 5,8
+Nhà riêng,75.0,5,4,4,Cơ bản,32.0,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 25,Bình Thạnh
+Nhà riêng,54.0,4,3,4,Đầy đủ,25.0,Không thuộc dự án,Đường Bàn Cờ,Phường 3,3
+Nhà riêng,68.0,3,3,4,Cơ bản,13.5,Không thuộc dự án,Đường Bờ Bao Tân Thắng,Phường Sơn Kỳ,Tân Phú
+Nhà riêng,48.0,2,2,2,Cơ bản,9.0,Không thuộc dự án,Đường Lũy Bán Bích,Phường Phú Thạnh,Tân Phú
+Nhà riêng,100.0,4,3,4,Cơ bản,35.0,Không thuộc dự án,Đường Nguyễn Bỉnh Khiêm,Phường Đa Kao,1
+Nhà riêng,100.0,5,3,2,Cơ bản,22.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 7,Gò Vấp
+Nhà riêng,44.0,4,4,2,Cơ bản,25.0,Không thuộc dự án,Đường Đỗ Quang Đẩu,Phường Phạm Ngũ Lão,1
+Nhà riêng,52.0,2,2,2,Cơ bản,9.0,Không thuộc dự án,Đường Quang Trung,Phường 10,Gò Vấp
+Nhà riêng,40.0,2,2,2,Đầy đủ,15.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà riêng,48.0,4,4,2,Cơ bản,14.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 13,Phú Nhuận
+Nhà riêng,114.0,4,4,4,Cơ bản,35.0,Không thuộc dự án,Đường Cao Thắng,Phường 11,10
+Nhà riêng,38.4,4,4,3,Đầy đủ,17.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 12,3
+Nhà riêng,96.0,6,7,4,Cơ bản,30.0,Không thuộc dự án,Đường Nguyễn Văn Trỗi,Phường 15,Phú Nhuận
+Nhà riêng,162.0,4,4,3,Cơ bản,47.0,Dự án Phú Mỹ Hưng,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà riêng,80.0,4,4,3,Cơ bản,15.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà riêng,35.0,2,2,2,Đầy đủ,20.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Bến Nghé,1
+Nhà riêng,56.0,2,2,2,Cơ bản,18.0,Không thuộc dự án,Đường Trần Quý Cáp,Phường 12,Bình Thạnh
+Nhà riêng,90.0,4,4,4,Cơ bản,24.0,Không thuộc dự án,Đường Đoàn Thị Điểm,Phường 1,Phú Nhuận
+Nhà riêng,100.0,4,4,4,Cơ bản,9.0,Dự án Thạnh Mỹ Lợi,Đường Phạm Thận Duật,Phường Thạnh Mỹ Lợi,2
+Nhà riêng,56.0,4,5,4,Cơ bản,8.0,Không thuộc dự án,Đường Liên Khu 45,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,81.0,4,3,2,Cơ bản,18.0,Không thuộc dự án,Đường Nguyễn Cửu Đàm,Phường Tân Sơn Nhì,Tân Phú
+Nhà riêng,56.0,3,2,2,Có tiện nghi cơ bản,9.0,Không thuộc dự án,Đường Bùi Văn Ba,Phường Phú Mỹ,7
+Nhà riêng,108.0,5,5,5,Đầy đủ,24.0,Không thuộc dự án,Đường Vạn Kiếp,Phường 3,Bình Thạnh
+Nhà riêng,90.0,4,4,5,Cơ bản,35.0,Không thuộc dự án,489/1 Đường Cống Quỳnh,Phường Nguyễn Cư Trinh,1
+Nhà riêng,75.0,4,4,3,Cơ bản,25.0,Không thuộc dự án,154/8a Đường Trần Quang Khải,Phường Tân Định,1
+Nhà riêng,45.0,3,2,2,Không nội thất,6.0,Không thuộc dự án,Đường Nguyễn Thị Đặng,Phường Hiệp Thành,12
+Nhà riêng,240.0,4,4,3,Đầy đủ,35.0,Dự án Hưng Thái 1 & 2,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà riêng,136.0,6,4,4,Cơ bản,30.0,Không thuộc dự án,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Nhà riêng,72.0,3,1,2,Không nội thất,5.0,Không thuộc dự án,Đường Tân Chánh Hiệp 17,Phường Tân Chánh Hiệp,12
+Nhà riêng,56.0,6,6,2,Cơ bản,40.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Đa Kao,1
+Nhà riêng,34.0,2,2,2,Đầy đủ,13.0,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà riêng,69.0,4,3,4,Cơ bản,19.0,Không thuộc dự án,Đường Yên Thế,Phường 2,Tân Bình
+Nhà riêng,48.0,2,2,2,Cơ bản,20.0,Không thuộc dự án,Đường Nguyễn Thị Huỳnh,Phường 8,Phú Nhuận
+Nhà riêng,52.5,3,2,4,Cơ bản,8.5,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 14,Gò Vấp
+Nhà riêng,105.0,4,5,3,Cơ bản,25.0,Dự án Phú Mỹ Chợ Lớn,Đường Phạm Hữu Lầu,Phường Phú Mỹ,7
+Nhà riêng,85.0,4,4,3,Cơ bản,15.0,Dự án Citi Bella 2,Đường 39 - CL,Phường Cát Lái,2
+Nhà riêng,100.0,3,3,2,Cơ bản,7.0,Không thuộc dự án,Đường Lò Lu,Phường Trường Thạnh,9
+Nhà riêng,90.0,4,4,3,Cơ bản,19.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 8,Tân Bình
+Nhà riêng,100.0,6,6,4,Cơ bản,22.0,Không thuộc dự án,304/6A Đường Bùi Đình Túy,Phường 12,Bình Thạnh
+Nhà riêng,60.0,4,4,5,Cơ bản,22.0,Không thuộc dự án,Đường Điện Biên Phủ,Phường 1,3
+Nhà riêng,50.0,2,2,2,Cơ bản,8.0,Không thuộc dự án,Đường 182,Phường Tăng Nhơn Phú A,Thủ Đức
+Nhà riêng,53.0,2,2,2,Cơ bản,8.0,Không thuộc dự án,Đường Số 6,Phường Bình Trưng Đông,2
+Nhà riêng,168.3,5,4,3,Cơ bản,60.0,Dự án KĐT Vạn Phúc City,Đường Quốc Lộ 13,Phường Hiệp Bình Phước,Thủ Đức
+Nhà riêng,72.0,4,5,3,Cơ bản,20.0,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 14,Gò Vấp
+Nhà riêng,64.0,4,3,3,Đầy đủ,12.0,Không thuộc dự án,Đường Số 53,Phường 14,Gò Vấp
+Nhà riêng,64.0,5,5,3,Cơ bản,14.0,Không thuộc dự án,Đường Số 59,Phường 14,Gò Vấp
+Nhà riêng,69.6,4,4,3,Cơ bản,15.0,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 14,Gò Vấp
+Nhà riêng,64.0,5,5,3,Đầy đủ,19.0,Không thuộc dự án,Đường Số 5,Phường 17,Gò Vấp
+Nhà riêng,112.0,4,3,2,Không nội thất,32.0,Không thuộc dự án,Đường Nguyễn Văn Khối,Phường 11,Gò Vấp
+Nhà riêng,68.0,4,3,3,Cơ bản,25.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,63.0,4,5,3,Đầy đủ,23.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 12,Bình Thạnh
+Nhà riêng,171.0,6,4,4,Cơ bản,45.0,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 10,Phú Nhuận
+Nhà riêng,200.0,6,6,3,Cơ bản,35.0,Không thuộc dự án,Đường Trần Não,Phường Bình An,2
+Nhà riêng,60.0,6,3,2,Cơ bản,12.0,Không thuộc dự án,Đường Đỗ Công Tường,Phường Tân Quý,Tân Phú
+Nhà riêng,55.0,2,2,2,Cơ bản,12.0,Không thuộc dự án,Đường Bùi Viện,Phường Phạm Ngũ Lão,1
+Nhà riêng,72.0,4,5,3,Đầy đủ,23.0,Không thuộc dự án,Đường Ung Văn Khiêm,Phường 25,Bình Thạnh
+Nhà riêng,80.0,4,3,3,Cơ bản,25.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,120.0,5,5,3,Cơ bản,28.0,Không thuộc dự án,Đường Hồng Hà,Phường 2,Tân Bình
+Nhà riêng,80.0,7,5,4,Cơ bản,35.0,Không thuộc dự án,Đường Vạn Kiếp,Phường 3,Bình Thạnh
+Nhà riêng,70.0,4,3,3,Cơ bản,17.5,Không thuộc dự án,Đường Đặng Văn Ngữ,Phường 14,Phú Nhuận
+Nhà riêng,80.0,4,3,3,Cơ bản,30.0,Không thuộc dự án,Đường 3/2,Phường 11,10
+Nhà riêng,130.0,4,4,3,Cơ bản,9.0,Không thuộc dự án,Đường Nguyễn Thị Búp,Phường Tân Chánh Hiệp,12
+Nhà riêng,99.0,5,3,4,Cơ bản,35.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Tân Định,1
+Nhà riêng,60.0,2,2,2,Cơ bản,16.0,Không thuộc dự án,Đường 20,Phường Tân Phú,7
+Nhà riêng,54.0,4,4,3,Cơ bản,16.0,Không thuộc dự án,Đường Võ Thị Nhờ,Phường Tân Thuận Đông,7
+Nhà riêng,75.0,4,3,3,Cơ bản,13.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 6,Gò Vấp
+Nhà riêng,105.0,5,6,4,Cơ bản,39.0,Dự án KĐT Vạn Phúc City,Đường Quốc Lộ 13,Phường Hiệp Bình Phước,Thủ Đức
+Nhà riêng,52.0,3,3,4,Đầy đủ,20.0,Không thuộc dự án,Đường Trần Quang Diệu,Phường 14,3
+Nhà riêng,36.5,2,2,2,Đầy đủ,10.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường 4,Phú Nhuận
+Nhà riêng,90.0,2,1,4,Đầy đủ,7.0,Không thuộc dự án,Đường Số 12,Phường Trường Thạnh,9
+Nhà riêng,60.0,2,1,2,Cơ bản,9.5,Không thuộc dự án,Đường Trường Sa,Phường 13,Phú Nhuận
+Nhà riêng,200.0,5,4,3,Cơ bản,55.0,Dự án An Phú An Khánh,Đường 17,Phường An Phú,2
+Nhà riêng,200.0,4,4,3,Cơ bản,55.0,Không thuộc dự án,Đường Nguyễn Văn Hưởng,Phường Thảo Điền,2
+Nhà riêng,78.0,2,2,2,Cơ bản,7.5,Không thuộc dự án,Đường Phan Văn Hớn,Phường Tân Thới Nhất,12
+Nhà riêng,108.0,5,4,4,Cơ bản,49.0,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà riêng,100.0,5,4,4,Cơ bản,35.0,Không thuộc dự án,Đường Cao Thắng,Phường 5,3
+Nhà riêng,100.0,4,4,4,Cơ bản,37.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,100.0,4,4,4,Cơ bản,36.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,68.0,3,2,3,Cơ bản,26.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường 5,3
+Nhà riêng,200.0,5,4,3,Cơ bản,48.0,Không thuộc dự án,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Nhà riêng,72.0,4,4,3,Cơ bản,20.0,Không thuộc dự án,Đường Trần Xuân Soạn,Phường Tân Hưng,7
+Nhà riêng,110.0,4,4,3,Cơ bản,23.0,Dự án Park Riverside Tân Cảng,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà riêng,90.0,6,4,4,Đầy đủ,32.0,Không thuộc dự án,Đường Phổ Quang,Phường 2,Phú Nhuận
+Nhà riêng,44.9,2,3,2,Cơ bản,8.0,Không thuộc dự án,Đường Bùi Tư Toàn,Phường An Lạc,Bình Tân
+Nhà riêng,48.0,4,3,2,Cơ bản,14.0,Không thuộc dự án,Đường Võ Thị Nhờ,Phường Tân Thuận Đông,7
+Nhà riêng,64.0,4,3,3,Cơ bản,17.0,Không thuộc dự án,Đường Nguyễn Đình Chính,Phường 11,Phú Nhuận
+Nhà riêng,56.0,4,2,2,Cơ bản,5.0,Không thuộc dự án,Đường Hà Huy Giáp,Phường Thạnh Xuân,12
+Nhà riêng,117.0,2,1,3,Cơ bản,9.0,Không thuộc dự án,Đường Lý Tuệ,Phường Tân Quý,Tân Phú
+Nhà riêng,99.0,1,1,1,Cơ bản,7.0,Không thuộc dự án,Đường Vườn Lài,Phường An Phú Đông,12
+Nhà riêng,88.0,5,5,4,Cơ bản,22.0,Không thuộc dự án,Đường Nguyễn Minh Hoàng,Phường 4,Tân Bình
+Nhà riêng,160.0,5,4,4,Cơ bản,45.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,100.0,3,2,3,Cơ bản,15.0,Không thuộc dự án,Đường Tân Phước,Phường 6,10
+Nhà riêng,160.0,5,4,3,Cơ bản,50.0,Không thuộc dự án,Đường Bùi Tá Hán,Phường An Phú,2
+Nhà riêng,140.0,5,4,3,Cơ bản,45.0,Dự án KĐT Vạn Phúc City,Đường Quốc Lộ 13,Phường Hiệp Bình Phước,Thủ Đức
+Nhà riêng,60.0,3,4,3,Đầy đủ,19.0,Không thuộc dự án,Đường Xuân Diệu,Phường 4,Tân Bình
+Nhà riêng,68.0,3,3,2,Cơ bản,13.0,Không thuộc dự án,Đường Hồng Lạc,Phường 10,Tân Bình
+Nhà riêng,150.0,4,4,3,Cơ bản,35.0,Dự án Verosa Park,Đường Liên Phường,Phường Phước Long B,9
+Nhà riêng,92.5,3,3,3,Cơ bản,18.0,Dự án Mega Ruby,Đường Võ Chí Công,Phường Phú Hữu,9
+Nhà riêng,45.0,2,2,2,Cơ bản,12.0,Không thuộc dự án,Đường Lê Quang Định,Phường 1,Gò Vấp
+Nhà riêng,90.0,4,4,4,Cơ bản,15.0,Không thuộc dự án,Đường Liên Phường,Phường Phước Long B,9
+Nhà riêng,120.0,5,4,3,Đầy đủ,23.0,Dự án Park Riverside Tân Cảng,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà riêng,100.0,4,4,4,Cơ bản,36.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,50.0,1,1,2,Cơ bản,7.0,Không thuộc dự án,Đường Hòa Bình,Phường 5,11
+Nhà riêng,64.0,4,3,2,Cơ bản,10.0,Không thuộc dự án,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Nhà riêng,75.0,4,4,3,Cơ bản,8.0,Không thuộc dự án,Đường Hồ Ngọc Lãm,Phường An Lạc,Bình Tân
+Nhà riêng,29.7,3,2,3,Đầy đủ,10.0,Không thuộc dự án,Đường Âu Dương Lân,Phường 2,8
+Nhà riêng,80.0,5,5,3,Cơ bản,15.0,Không thuộc dự án,Đường Võ Văn Kiệt,Phường An Lạc,Bình Tân
+Nhà riêng,60.0,4,4,3,Cơ bản,16.0,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 5,Gò Vấp
+Nhà riêng,45.0,2,2,2,Không nội thất,6.0,Không thuộc dự án,Đường Nguyễn Tư Giản,Phường 12,Gò Vấp
+Nhà riêng,88.0,2,1,1,Cơ bản,6.5,Không thuộc dự án,Đường Bình Phú,Phường Tam Phú,Thủ Đức
+Nhà riêng,52.0,2,2,2,Cơ bản,8.5,Không thuộc dự án,Đường 51,Phường 14,Gò Vấp
+Nhà riêng,175.0,5,4,3,Cơ bản,20.0,Không thuộc dự án,Đường Vườn Lài,Phường An Phú Đông,12
+Nhà riêng,120.0,5,4,3,Cơ bản,35.0,Không thuộc dự án,Đường Lương Định Của,Phường An Khánh,2
+Nhà riêng,76.0,4,4,3,Cơ bản,25.0,Không thuộc dự án,Đường Quang Trung,Phường 10,Gò Vấp
+Nhà riêng,72.0,4,5,2,Cơ bản,10.0,Không thuộc dự án,523/27 Đường Lê Văn Khương,Phường Hiệp Thành,12
+Nhà riêng,26.0,2,2,2,Đầy đủ,8.0,Không thuộc dự án,Đường Nhất Chi Mai,Phường 13,Tân Bình
+Nhà riêng,70.0,5,5,4,Cơ bản,17.0,Không thuộc dự án,102/96 Đường Lê Văn Thọ,Phường 11,Gò Vấp
+Nhà riêng,49.0,3,2,1,Cơ bản,8.0,Không thuộc dự án,Đường Thạnh Lộc 37,Phường Thạnh Lộc,12
+Nhà riêng,200.0,5,3,2,Cơ bản,40.0,Không thuộc dự án,Đường Lê Văn Sỹ,Phường 14,3
+Nhà riêng,60.0,3,3,3,Cơ bản,14.0,Không thuộc dự án,Đường Nguyễn Văn Công,Phường 3,Gò Vấp
+Nhà riêng,96.0,4,5,3,Cơ bản,37.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường Đa Kao,1
+Nhà riêng,32.0,2,1,1,Đầy đủ,11.8,Không thuộc dự án,Đường Đào Duy Anh,Phường 9,Phú Nhuận
+Nhà riêng,30.7,4,3,3,Đầy đủ,15.0,Không thuộc dự án,Đường Phan Xích Long,Phường 3,Phú Nhuận
+Nhà riêng,75.0,3,2,3,Cơ bản,15.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 4,Phú Nhuận
+Nhà riêng,170.0,3,2,3,Cơ bản,16.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 11,3
+Nhà riêng,121.0,5,4,4,Cơ bản,22.0,Không thuộc dự án,Đường Nguyễn Gia Trí,Phường 15,Bình Thạnh
+Nhà riêng,60.0,2,1,1,Cơ bản,6.5,Không thuộc dự án,Đường Nguyễn Văn Công,Phường 3,Gò Vấp
+Nhà riêng,64.6,5,4,4,Cơ bản,20.0,Không thuộc dự án,Đường Dương Bá Trạc,Phường 1,8
+Nhà riêng,200.0,6,4,3,Cơ bản,60.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,100.0,4,4,4,Cơ bản,65.0,Không thuộc dự án,Đường 10,Phường 10,Gò Vấp
+Nhà riêng,96.0,5,5,4,Cơ bản,25.0,Không thuộc dự án,Đường Văn Chung,Phường 13,Tân Bình
+Nhà riêng,180.0,5,4,3,Cơ bản,65.0,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 1,Tân Bình
+Nhà riêng,110.0,5,4,4,Cơ bản,33.0,Không thuộc dự án,Đường Nam Kỳ Khởi Nghĩa,Phường Võ Thị Sáu,3
+Nhà riêng,90.0,5,5,4,Cơ bản,32.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 12,10
+Nhà riêng,72.0,5,3,2,Cơ bản,19.0,Không thuộc dự án,159/2e Đường Phạm Văn Hai,Phường 2,Tân Bình
+Nhà riêng,33.0,2,2,2,Đầy đủ,10.0,Không thuộc dự án,Đường Bùi Hữu Nghĩa,Phường 24,Bình Thạnh
+Nhà riêng,96.0,4,4,4,Cơ bản,27.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,28.0,2,2,2,Đầy đủ,9.0,Không thuộc dự án,Đường Võ Văn Tần,Phường 5,3
+Nhà riêng,90.0,4,5,3,Cơ bản,16.0,Không thuộc dự án,Đường Phạm Văn Chiêu,Phường 8,Gò Vấp
+Nhà riêng,86.0,3,2,2,Cơ bản,12.0,Không thuộc dự án,Đường Liên khu 10-11,Phường Bình Trị Đông,Bình Tân
+Nhà riêng,55.0,2,1,2,Cơ bản,7.0,Không thuộc dự án,Đường An Dương Vương,Phường An Lạc,Bình Tân
+Nhà riêng,100.0,5,4,3,Cơ bản,28.0,Không thuộc dự án,Đường Lê Hồng Phong,Phường 12,10
+Nhà riêng,70.0,3,3,2,Cơ bản,9.8,Không thuộc dự án,Đường Nguyễn Văn Quỳ,Phường Phú Thuận,7
+Nhà riêng,80.0,3,3,3,Đầy đủ,17.9,Không thuộc dự án,Đường 27,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà riêng,126.0,6,4,4,Cơ bản,30.0,Không thuộc dự án,Đường Số 12,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà riêng,32.0,2,2,2,Đầy đủ,7.5,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 15,10
+Nhà riêng,78.0,5,5,4,Cơ bản,22.0,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà riêng,120.0,5,4,4,Cơ bản,24.0,Không thuộc dự án,Đường Lê Bình,Phường 4,Tân Bình
+Nhà riêng,100.0,5,4,4,Cơ bản,25.0,Không thuộc dự án,Đường Nguyễn Minh Hoàng,Phường 12,Tân Bình
+Nhà riêng,120.0,5,5,3,Cơ bản,28.0,Không thuộc dự án,Đường Nguyễn Thượng Hiền,Phường 6,Bình Thạnh
+Nhà riêng,120.0,5,5,3,Cơ bản,28.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 14,Bình Thạnh
+Nhà riêng,114.0,5,5,4,Cơ bản,25.0,Không thuộc dự án,Đường Đặng Văn Ngữ,Phường 14,Phú Nhuận
+Nhà riêng,114.0,4,4,4,Cơ bản,18.0,Không thuộc dự án,10/2 Đường Nguyễn Huy Tưởng,Phường 6,Bình Thạnh
+Nhà riêng,90.0,5,4,4,Cơ bản,18.0,Không thuộc dự án,353B Đường Nguyễn Trọng Tuyển,Phường 1,Tân Bình
+Nhà riêng,120.0,5,5,5,Cơ bản,32.0,Không thuộc dự án,25/1 Đường Cửu Long,Phường 2,Tân Bình
+Nhà riêng,90.0,5,4,3,Cơ bản,25.0,Không thuộc dự án,Đường Cửu Long,Phường 2,Tân Bình
+Nhà riêng,99.0,5,4,4,Cơ bản,26.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 8,Tân Bình
+Nhà riêng,90.0,4,4,4,Cơ bản,18.0,Không thuộc dự án,Đường Lê Quang Định,Phường 5,Bình Thạnh
+Nhà riêng,52.5,3,2,3,Không nội thất,8.5,Không thuộc dự án,Đường Số 59,Phường 14,Gò Vấp
+Nhà riêng,40.0,2,2,3,Đầy đủ,10.0,Không thuộc dự án,Đường Võ Văn Kiệt,Phường 3,6
+Nhà riêng,48.0,3,1,1,Cơ bản,5.0,Không thuộc dự án,Đường Gò Xoài,Phường Bình Hưng Hòa A,Bình Tân
+Nhà riêng,72.0,4,4,3,Đầy đủ,25.0,Không thuộc dự án,Đường Đoàn Thị Điểm,Phường 1,Phú Nhuận
+Nhà riêng,130.0,3,3,1,Cơ bản,18.0,Không thuộc dự án,Đường 23,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà riêng,99.0,5,4,4,Cơ bản,32.0,Không thuộc dự án,Đường Thăng Long,Phường 4,Tân Bình
+Nhà riêng,67.5,3,2,3,Cơ bản,15.0,Không thuộc dự án,Đường Số 48,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà riêng,72.0,4,3,3,Cơ bản,10.0,Không thuộc dự án,Đường Lê Thị Hồng,Phường 17,Gò Vấp
+Nhà riêng,80.0,2,1,1,Cơ bản,9.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 6,Gò Vấp
+Nhà riêng,40.0,3,3,4,Đầy đủ,14.0,Không thuộc dự án,Đường Lê Quang Định,Phường 11,Bình Thạnh
+Nhà riêng,81.0,5,4,4,Cơ bản,25.0,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 13,Phú Nhuận
+Nhà riêng,120.0,5,4,4,Cơ bản,33.0,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 1,Tân Bình
+Nhà riêng,90.0,5,4,4,Cơ bản,25.0,Không thuộc dự án,Đường Phan Đăng Lưu,Phường 3,Bình Thạnh
+Nhà riêng,150.0,5,5,4,Đầy đủ,18.0,Không thuộc dự án,Đường Tân Hòa Đông,Phường 14,6
+Nhà riêng,81.0,4,4,3,Đầy đủ,18.0,Không thuộc dự án,Đường Lê Văn Duyệt,Phường 3,Bình Thạnh
+Nhà riêng,110.0,5,4,5,Cơ bản,32.0,Không thuộc dự án,40/8A Đường Nguyễn Văn Đậu,Phường 5,Phú Nhuận
+Nhà riêng,65.0,3,3,2,Cơ bản,8.0,Không thuộc dự án,Đường Thạnh Xuân,Phường Thạnh Xuân,12
+Nhà riêng,48.0,6,3,3,Cơ bản,14.0,Không thuộc dự án,Đường Lạc Long Quân,Phường 5,11
+Nhà riêng,80.0,4,3,3,Đầy đủ,25.0,Không thuộc dự án,Đường Bàn Cờ,Phường 3,3
+Nhà riêng,64.0,5,3,3,Cơ bản,10.0,Không thuộc dự án,Đường Cây Trâm,Phường 9,Gò Vấp
+Nhà riêng,80.0,3,2,1,Cơ bản,4.99,Không thuộc dự án,Đường Quốc lộ 1A,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,27.0,2,3,4,Đầy đủ,12.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 5,Phú Nhuận
+Nhà riêng,64.0,4,5,3,Đầy đủ,18.0,Không thuộc dự án,Đường Nguyễn Văn Khối,Phường 9,Gò Vấp
+Nhà riêng,58.5,2,2,2,Có tiện nghi cơ bản,8.5,Không thuộc dự án,Đường 51,Phường 14,Gò Vấp
+Nhà riêng,60.0,5,5,4,Cơ bản,15.0,Không thuộc dự án,Đường Lê Văn Quới,Phường Bình Hưng Hòa A,Bình Tân
+Nhà riêng,60.0,5,6,4,Cơ bản,13.0,Không thuộc dự án,Đường Liên Khu 45,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,100.0,5,5,3,Cơ bản,14.0,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Bình Trị Đông,Bình Tân
+Nhà riêng,68.0,4,5,4,Cơ bản,14.0,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Tân Tạo,Bình Tân
+Nhà riêng,42.0,1,1,2,Không nội thất,5.5,Không thuộc dự án,Đường Năm Châu,Phường 11,Tân Bình
+Nhà riêng,160.0,5,4,4,Cơ bản,50.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,160.0,5,4,3,Cơ bản,45.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,87.36,4,4,2,Đầy đủ,27.0,Không thuộc dự án,Đường 58,Phường Thảo Điền,2
+Nhà riêng,68.0,3,3,4,Đầy đủ,18.0,Không thuộc dự án,Đường Nơ Trang Long,Phường 13,Bình Thạnh
+Nhà riêng,160.0,4,5,3,Cơ bản,50.0,Không thuộc dự án,Đường Quốc Hương,Phường Thảo Điền,2
+Nhà riêng,68.0,4,4,4,Cơ bản,18.0,Dự án Công Viên Văn Hóa Gò Vấp,Đường Quang Trung,Phường 10,Gò Vấp
+Nhà riêng,60.0,2,2,2,Không nội thất,9.0,Không thuộc dự án,Đường Nguyễn Văn Công,Phường 3,Gò Vấp
+Nhà riêng,48.0,4,3,3,Cơ bản,11.0,Không thuộc dự án,Đường Số 4,Phường 16,Gò Vấp
+Nhà riêng,95.0,3,3,2,Cơ bản,12.0,Không thuộc dự án,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Nhà riêng,53.0,2,2,1,Cơ bản,8.0,Không thuộc dự án,Đường Số 6,Phường Bình Trưng Đông,2
+Nhà riêng,67.2,4,3,3,Cơ bản,21.0,Không thuộc dự án,Đường Hoa Sứ,Phường 2,Phú Nhuận
+Nhà riêng,70.0,4,4,3,Cơ bản,18.5,Không thuộc dự án,22D Đường Lam Sơn,Phường 4,Tân Bình
+Nhà riêng,60.0,4,3,3,Cơ bản,10.0,Không thuộc dự án,Đường Hương lộ 2,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,150.0,5,4,3,Cơ bản,45.0,Dự án Him Lam Kênh Tẻ,Đường 14,Phường Tân Hưng,7
+Nhà riêng,42.0,2,2,2,Cơ bản,12.0,Không thuộc dự án,Đường 44,Phường Thảo Điền,2
+Nhà riêng,100.0,4,4,4,Cơ bản,24.9,Không thuộc dự án,Đường Lương Định Của,Phường An Phú,2
+Nhà riêng,68.0,5,5,4,Cơ bản,35.0,Không thuộc dự án,Đường Vạn Kiếp,Phường 3,Bình Thạnh
+Nhà riêng,56.0,3,1,2,Cơ bản,8.8,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà riêng,75.6,4,3,3,Cơ bản,20.0,Không thuộc dự án,Đường Vũ Tùng,Phường 2,Bình Thạnh
+Nhà riêng,90.0,5,5,4,Cơ bản,18.0,Không thuộc dự án,Đường Lũy Bán Bích,Phường Phú Thạnh,Tân Phú
+Nhà riêng,100.0,4,4,4,Cơ bản,35.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,80.0,5,4,4,Cơ bản,24.0,Không thuộc dự án,491/5A Đường Lê Văn Sỹ,Phường 12,3
+Nhà riêng,40.0,2,3,4,Không nội thất,9.0,Không thuộc dự án,Đường Hậu Giang,Phường 12,6
+Nhà riêng,90.0,5,4,3,Cơ bản,17.0,Không thuộc dự án,268/2A Đường Nguyễn Thái Bình,Phường 12,Tân Bình
+Nhà riêng,104.0,6,6,4,Cơ bản,24.0,Không thuộc dự án,Đường Cộng Hòa,Phường 4,Tân Bình
+Nhà riêng,160.0,5,4,3,Cơ bản,29.0,Không thuộc dự án,Đường Trần Não,Phường An Khánh,2
+Nhà riêng,218.63,5,4,4,Cơ bản,65.0,Không thuộc dự án,Đường Lam Sơn,Phường 2,Tân Bình
+Nhà riêng,81.0,5,4,4,Cơ bản,18.0,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà riêng,81.0,4,3,4,Cơ bản,19.0,Không thuộc dự án,Đường Cộng Hòa,Phường 4,Tân Bình
+Nhà riêng,56.0,4,4,4,Đầy đủ,16.0,Không thuộc dự án,Đường Trần Văn Ơn,Phường Tân Sơn Nhì,Tân Phú
+Nhà riêng,76.0,5,5,4,Cơ bản,20.0,Không thuộc dự án,301/2B Đường Phan Xích Long,Phường 1,Phú Nhuận
+Nhà riêng,80.0,2,2,4,Cơ bản,54.0,Không thuộc dự án,Đường Lương Định Của,Phường An Khánh,2
+Nhà riêng,81.0,6,5,5,Cơ bản,25.0,Không thuộc dự án,285/3B Đường Cách Mạng Tháng Tám,Phường 12,10
+Nhà riêng,90.0,4,4,5,Cơ bản,30.0,Không thuộc dự án,Đường Võ Văn Tần,Phường 5,3
+Nhà riêng,125.0,5,3,3,Cơ bản,22.0,Không thuộc dự án,Đường Bạch Mã,Phường 15,10
+Nhà riêng,100.0,6,5,4,Cơ bản,26.0,Không thuộc dự án,Đường Tô Hiến Thành,Phường 13,10
+Nhà riêng,140.0,1,1,1,Cơ bản,10.0,Không thuộc dự án,Đường Nguyễn Cửu Đàm,Phường Tân Sơn Nhì,Tân Phú
+Nhà riêng,105.0,5,4,3,Đầy đủ,22.0,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà riêng,160.0,5,4,3,Cơ bản,42.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,160.0,4,4,3,Đầy đủ,45.0,Không thuộc dự án,Đường Cao Đức Lân,Phường An Phú,2
+Nhà riêng,90.0,4,4,4,Cơ bản,14.5,Không thuộc dự án,Đường Lê Trọng Tấn,Phường Sơn Kỳ,Tân Phú
+Nhà riêng,44.0,2,2,2,Cơ bản,9.5,Không thuộc dự án,Đường Gò Dầu,Phường Tân Quý,Tân Phú
+Nhà riêng,81.0,5,5,4,Cơ bản,20.0,Không thuộc dự án,Đường Điện Biên Phủ,Phường 17,Bình Thạnh
+Nhà riêng,100.0,4,4,4,Cơ bản,40.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,42.9,3,2,2,Cơ bản,13.0,Không thuộc dự án,Đường Số 3,Phường An Khánh,2
+Nhà riêng,100.0,4,4,4,Cơ bản,28.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,68.0,5,4,4,Cơ bản,20.0,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 12,Phú Nhuận
+Nhà riêng,108.0,7,6,5,Cơ bản,30.0,Không thuộc dự án,134/3A Đường Thành Thái,Phường 12,10
+Nhà riêng,80.0,5,6,4,Cơ bản,24.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Đa Kao,1
+Nhà riêng,72.0,4,3,3,Cơ bản,19.0,Không thuộc dự án,Đường Tô Hiến Thành,Phường 13,10
+Nhà riêng,100.0,4,4,5,Cơ bản,40.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,100.0,5,4,4,Cơ bản,40.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,44.0,4,5,3,Có tiện nghi cơ bản,14.0,Không thuộc dự án,Đường Tân Kỳ Tân Quý,Phường Tân Sơn Nhì,Tân Phú
+Nhà riêng,50.0,1,1,1,Đầy đủ,12.0,Không thuộc dự án,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Nhà riêng,90.0,4,4,3,Đầy đủ,21.0,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà riêng,119.0,5,4,3,Cơ bản,40.0,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà riêng,160.0,5,4,3,Cơ bản,50.0,Không thuộc dự án,Đường Hồ Xuân Hương,Phường 1,3
+Nhà riêng,65.0,5,4,4,Cơ bản,17.0,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 5,Gò Vấp
+Nhà riêng,100.0,5,5,5,Cơ bản,30.0,Dự án Cityland Park Hills,Đường Trần Thị Nghỉ,Phường 10,Gò Vấp
+Nhà riêng,60.0,4,3,3,Cơ bản,16.0,Không thuộc dự án,Đường Nguyễn Thái Sơn,Phường 5,Gò Vấp
+Nhà riêng,96.0,6,4,4,Cơ bản,34.0,Không thuộc dự án,Đường Nguyễn Thị Minh Khai,Phường Đa Kao,1
+Nhà riêng,60.0,2,2,2,Cơ bản,13.0,Không thuộc dự án,Đường 12,Phường Trường Thọ,Thủ Đức
+Nhà riêng,240.0,5,5,3,Cơ bản,55.0,Không thuộc dự án,Đường Trần Não,Phường An Khánh,2
+Nhà riêng,82.0,3,2,2,Cơ bản,12.0,Không thuộc dự án,Đường Nguyễn Văn Đậu,Phường 11,Bình Thạnh
+Nhà riêng,160.0,5,4,3,Cơ bản,45.0,Không thuộc dự án,Đường Võ Thị Sáu,Phường Võ Thị Sáu,3
+Nhà riêng,169.7,5,6,4,Cơ bản,20.0,Không thuộc dự án,Đường Nguyễn Văn Đậu,Phường 6,Bình Thạnh
+Nhà riêng,100.0,4,4,4,Cơ bản,20.0,Không thuộc dự án,Đường Số 45,Phường Tân Quy,7
+Nhà riêng,100.0,4,5,4,Đầy đủ,35.0,Dự án Lakeview City,Đường Song Hành,Phường An Phú,2
+Nhà riêng,126.0,5,4,3,Cơ bản,35.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,72.0,4,4,3,Cơ bản,16.0,Không thuộc dự án,Đường Phan Huy Ích,Phường 14,Gò Vấp
+Nhà riêng,120.0,5,4,3,Cơ bản,57.0,Không thuộc dự án,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Nhà riêng,82.0,4,3,3,Cơ bản,20.0,Không thuộc dự án,Đường Nguyễn Minh Hoàng,Phường 12,Tân Bình
+Nhà riêng,60.0,3,4,3,Cơ bản,18.0,Không thuộc dự án,Đường Nguyễn Trọng Tuyển,Phường 1,Tân Bình
+Nhà riêng,100.0,4,4,4,Cơ bản,35.0,Dự án Him Lam Kênh Tẻ,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà riêng,64.0,4,3,4,Cơ bản,20.0,Không thuộc dự án,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà riêng,76.5,7,5,4,Cơ bản,35.0,Không thuộc dự án,Đường Vạn Kiếp,Phường 3,Bình Thạnh
+Nhà riêng,64.0,4,4,3,Đầy đủ,18.0,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 8,Phú Nhuận
+Nhà riêng,250.0,3,4,2,Cơ bản,35.0,Không thuộc dự án,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,64.0,1,1,1,Cơ bản,13.0,Không thuộc dự án,Đường Trần Não,Phường An Khánh,2
+Nhà riêng,100.0,5,5,3,Cơ bản,29.0,Không thuộc dự án,Đường Phổ Quang,Phường 2,Tân Bình
+Nhà riêng,70.0,4,3,4,Đầy đủ,19.0,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 13,Phú Nhuận
+Nhà riêng,85.0,3,3,4,Đầy đủ,15.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 4,Phú Nhuận
+Nhà riêng,80.0,5,5,4,Đầy đủ,25.0,Không thuộc dự án,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Nhà riêng,48.0,2,3,3,Cơ bản,20.0,Không thuộc dự án,Đường Hòa Hưng,Phường 13,10
+Nhà riêng,64.0,4,5,3,Cơ bản,18.0,Không thuộc dự án,Đường Nguyễn Oanh,Phường 17,Gò Vấp
+Nhà riêng,80.0,4,4,4,Cơ bản,22.0,Không thuộc dự án,Đường Phan Xích Long,Phường 2,Phú Nhuận
+Nhà riêng,96.0,6,4,3,Cơ bản,65.0,Không thuộc dự án,Đường Nguyễn Văn Hưởng,Phường Thảo Điền,2
+Nhà riêng,80.0,4,5,3,Cơ bản,19.0,Không thuộc dự án,Đường Lê Văn Thọ,Phường 14,Gò Vấp
+Nhà riêng,60.0,4,5,5,Cơ bản,22.0,Không thuộc dự án,Đường Lê Văn Quới,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,80.0,3,3,3,Đầy đủ,30.0,Không thuộc dự án,Đường D5,Phường 25,Bình Thạnh
+Nhà riêng,90.0,5,5,4,Cơ bản,17.0,Không thuộc dự án,Đường Cao Thắng,Phường 4,3
+Nhà riêng,28.0,1,2,1,Đầy đủ,9.5,Không thuộc dự án,Đường Bình Quới,Phường 27,Bình Thạnh
+Nhà riêng,76.0,3,3,3,Cơ bản,6.0,Không thuộc dự án,Đường Tân Thới Hiệp 13,Phường Tân Thới Hiệp,12
+Nhà riêng,23.4,2,2,2,Đầy đủ,11.0,Không thuộc dự án,Đường Hồ Thị Kỷ,Phường 1,10
+Nhà riêng,60.0,4,5,3,Cơ bản,12.0,Không thuộc dự án,Đường Thới An 35,Phường Thới An,12
+Nhà riêng,80.0,3,3,2,Cơ bản,16.0,Không thuộc dự án,Đường Yên Đỗ,Phường 1,Bình Thạnh
+Nhà riêng,80.0,5,5,3,Cơ bản,20.0,Dự án Phú Lợi,Đường Thích Quảng Đức,Phường 3,Phú Nhuận
+Nhà riêng,72.0,5,4,3,Cơ bản,18.0,Không thuộc dự án,Đường Dương Quảng Hàm,Phường 5,Gò Vấp
+Nhà riêng,100.0,5,5,4,Cơ bản,30.0,Không thuộc dự án,Đường Bình Lợi,Phường 13,Bình Thạnh
+Nhà riêng,44.0,3,3,4,Cơ bản,17.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà riêng,144.0,7,4,3,Cơ bản,45.0,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà riêng,100.0,5,5,4,Cơ bản,35.0,Không thuộc dự án,Đường Vành Đai Trong,Phường Bình Trị Đông B,Bình Tân
+Nhà riêng,40.0,2,4,3,Đầy đủ,9.0,Không thuộc dự án,Đường Phan Huy Ích,Phường 12,Gò Vấp
+Nhà riêng,67.5,4,3,3,Cơ bản,18.0,Không thuộc dự án,Đường Huỳnh Văn Bánh,Phường 13,Phú Nhuận
+Nhà riêng,48.0,3,3,3,Đầy đủ,26.0,Không thuộc dự án,Đường Nguyễn Thượng Hiền,Phường 10,3
+Nhà riêng,160.0,5,4,3,Cơ bản,50.0,Dự án An Phú An Khánh,Đường Trần Não,Phường An Phú,2
+Nhà riêng,148.0,5,4,3,Cơ bản,30.0,Không thuộc dự án,Đường Trần Não,Phường Bình An,2
+Nhà riêng,138.0,5,4,3,Cơ bản,60.0,Không thuộc dự án,Đường Trần Não,Phường An Khánh,2
+Nhà riêng,70.0,4,3,3,Không nội thất,15.5,Không thuộc dự án,Đường Tôn Đản,Phường 8,4
+Nhà riêng,105.0,1,2,2,Cơ bản,30.0,Không thuộc dự án,Đường Đinh Công Tráng,Phường Tân Định,1
+Nhà riêng,148.0,7,6,4,Cơ bản,50.0,Không thuộc dự án,Đường Phú Thuận,Phường Phú Thuận,7
+Nhà riêng,100.0,4,5,4,Cơ bản,25.0,Không thuộc dự án,Đường Xa Lộ Hà Nội,Phường Thảo Điền,2
+Nhà riêng,80.0,2,2,2,Đầy đủ,8.0,Không thuộc dự án,Đường Số 6,Phường Bình Hưng Hòa B,Bình Tân
+Nhà riêng,100.0,6,5,4,Cơ bản,25.0,Không thuộc dự án,Đường Sư Vạn Hạnh,Phường 12,10
+Nhà riêng,160.0,5,5,3,Cơ bản,50.0,Không thuộc dự án,Đường Nguyễn Đình Chính,Phường 8,Phú Nhuận
+Nhà riêng,60.0,2,2,2,Cơ bản,30.0,Không thuộc dự án,Đường Phạm Ngọc Thạch,Phường Võ Thị Sáu,3
+Nhà riêng,36.0,2,2,1,Đầy đủ,4.0,Không thuộc dự án,Đường Thạnh Xuân 14,Phường Thạnh Xuân,12
+Nhà riêng,68.0,6,6,5,Cơ bản,25.0,Không thuộc dự án,Đường K300,Phường 12,Tân Bình
+Nhà riêng,100.0,5,4,3,Cơ bản,22.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 7,Gò Vấp
+Nhà riêng,100.0,8,5,5,Cơ bản,35.0,Dự án CityLand Park Hills,Đường Phan Văn Trị,Phường 10,Gò Vấp
+Nhà riêng,56.0,2,2,2,Cơ bản,15.0,Không thuộc dự án,Đường Nguyễn Trãi,Phường Nguyễn Cư Trinh,1
+Nhà riêng,56.0,4,5,3,Cơ bản,12.0,Không thuộc dự án,Đường An Phú Đông 10,Phường An Phú Đông,12
+Nhà riêng,160.0,5,4,3,Cơ bản,42.0,Dự án An Phú An Khánh,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,32.0,2,1,2,Không nội thất,5.7,Không thuộc dự án,417/23/107 Đường Quang Trung,Phường 10,Gò Vấp
+Nhà riêng,95.0,4,4,4,Cơ bản,6.0,Không thuộc dự án,Đường Thới An 5,Phường Thới An,12
+Nhà riêng,60.0,2,1,1,Cơ bản,4.0,Không thuộc dự án,Đường 1,Phường Long Trường,9
+Nhà riêng,60.0,3,2,2,Cơ bản,6.0,Không thuộc dự án,Đường Số 1,Phường Long Trường,9
+Nhà riêng,32.0,3,3,3,Cơ bản,15.5,Không thuộc dự án,Đường Nguyễn Thanh Tuyền,Phường 2,Tân Bình
+Nhà riêng,96.0,4,5,4,Đầy đủ,27.0,Dự án Lakeview City,Đường Đỗ Xuân Hợp,Phường An Phú,2
+Nhà riêng,64.0,2,3,2,Cơ bản,15.0,Không thuộc dự án,Đường Tây Thạnh,Phường Tây Thạnh,Tân Phú
+Nhà riêng,50.0,4,5,2,Cơ bản,10.0,Không thuộc dự án,Đường Gò Dầu,Phường Tân Quý,Tân Phú
+Nhà riêng,160.0,5,4,3,Cơ bản,29.0,Không thuộc dự án,Đường Lê Trọng Tấn,Phường Sơn Kỳ,Tân Phú
+Nhà riêng,144.0,4,5,3,Cơ bản,38.0,Không thuộc dự án,Đường Thạch Lam,Phường Phú Thạnh,Tân Phú
+Nhà riêng,42.0,2,2,2,Cơ bản,10.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường 4,Phú Nhuận
+Nhà riêng,60.0,3,4,4,Đầy đủ,15.0,Không thuộc dự án,Đường Đồng Đen,Phường 14,Tân Bình
+Nhà riêng,96.0,4,5,3,Đầy đủ,27.0,Dự án Khu đô thị Lakeview City,Đường Mai Chí Thọ,Phường An Phú,2
+Nhà riêng,119.0,5,5,3,Cơ bản,28.0,Không thuộc dự án,Đường 8,Phường An Phú,2
+Nhà riêng,108.0,6,4,3,Cơ bản,12.0,Không thuộc dự án,Đường Bưng Ông Thoàn,Phường Phú Hữu,9
+Nhà riêng,120.0,4,4,4,Cơ bản,30.0,Dự án KDC Nam Long,Đường Đỗ Xuân Hợp,Phường Phước Long B,9
+Nhà riêng,240.0,4,5,3,Cơ bản,24.0,Dự án KDC Kiến Á,Đường Liên Phường,Phường Phước Long B,9
+Nhà riêng,125.0,4,4,3,Cơ bản,20.0,Dự án Hoàng Anh Minh Tuấn,Đường Đỗ Xuân Hợp,Phường Phước Long B,9
+Nhà riêng,72.0,4,5,3,Cơ bản,20.0,Không thuộc dự án,Đường 1B,Phường Phú Mỹ,7
+Nhà riêng,44.0,4,3,3,Cơ bản,17.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà riêng,75.0,5,5,3,Cơ bản,35.0,Không thuộc dự án,Đường Cách Mạng Tháng Tám,Phường 10,3
+Nhà riêng,170.0,4,4,4,Đầy đủ,40.0,Không thuộc dự án,Đường 43,Phường Thảo Điền,2
+Nhà riêng,170.0,5,4,3,Cơ bản,40.0,Không thuộc dự án,Đường Xô Viết Nghệ Tĩnh,Phường 26,Bình Thạnh
+Nhà riêng,99.0,4,5,3,Cơ bản,27.0,Không thuộc dự án,Đường Nhiêu Tứ,Phường 7,Phú Nhuận
+Nhà riêng,48.0,3,2,2,Cơ bản,14.0,Không thuộc dự án,Đường Nguyễn Công Hoan,Phường 7,Phú Nhuận
+Nhà riêng,52.5,2,2,2,Cơ bản,12.0,Không thuộc dự án,Đường Phan Xích Long,Phường 3,Phú Nhuận
+Nhà riêng,24.0,2,2,3,Đầy đủ,9.0,Không thuộc dự án,Đường Hoàng Hoa Thám,Phường 6,Bình Thạnh
+Nhà riêng,40.0,2,2,3,Đầy đủ,9.0,Không thuộc dự án,Đường Bạch Đằng,Phường 2,Tân Bình
+Nhà riêng,36.0,4,3,4,Đầy đủ,15.0,Không thuộc dự án,Đường Lê Văn Duyệt,Phường 1,Bình Thạnh
+Nhà riêng,40.0,1,1,2,Đầy đủ,8.0,Không thuộc dự án,Đường Lê Văn Duyệt,Phường 3,Bình Thạnh
+Nhà riêng,93.5,1,1,1,Cơ bản,6.5,Không thuộc dự án,Đường Lê Đức Thọ,Phường 13,Gò Vấp
+Nhà riêng,56.0,3,2,2,Cơ bản,10.0,Không thuộc dự án,Đường Nguyễn Văn Khối,Phường 8,Gò Vấp
+Nhà riêng,21.0,1,2,2,Đầy đủ,6.0,Không thuộc dự án,Đường Phan Đình Phùng,Phường 1,Phú Nhuận
+Nhà riêng,62.9,2,1,3,Cơ bản,7.0,Không thuộc dự án,Đường Phan Huy Ích,Phường 12,Gò Vấp
+Nhà riêng,120.0,3,3,2,Cơ bản,30.0,Không thuộc dự án,Đường Sông Đáy,Phường 2,Tân Bình
+Nhà riêng,168.0,4,4,3,Cơ bản,40.0,Không thuộc dự án,Đường 9,Phường Bình An,2
+Nhà riêng,72.0,4,5,3,Cơ bản,19.0,Không thuộc dự án,Đường Phạm Hữu Lầu,Phường Phú Mỹ,7
+Nhà riêng,72.0,3,2,2,Không nội thất,17.0,Không thuộc dự án,62L/23 Đường Nguyên Hồng,Phường 11,Bình Thạnh
+Nhà riêng,120.0,5,4,3,Cơ bản,18.0,Không thuộc dự án,Đường Nguyễn Thị Định,Phường Cát Lái,2
+Nhà riêng,72.0,4,4,2,Đầy đủ,20.0,Không thuộc dự án,Đường Số 65,Phường Thảo Điền,2
+Nhà riêng,120.0,2,2,3,Đầy đủ,20.0,Không thuộc dự án,Đường Mã Lò,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,88.0,2,4,4,Cơ bản,10.0,Không thuộc dự án,Đường Số 14,Phường Phước Bình,9
+Nhà riêng,60.0,4,4,2,Cơ bản,20.0,Không thuộc dự án,Đường Quách Văn Tuấn,Phường 12,Tân Bình
+Nhà riêng,65.0,2,2,2,Cơ bản,11.0,Không thuộc dự án,Đường Nguyễn Súy,Phường Tân Quý,Tân Phú
+Nhà riêng,56.0,2,2,2,Cơ bản,8.5,Không thuộc dự án,Đường 22,Phường Linh Đông,Thủ Đức
+Nhà riêng,70.0,4,3,3,Cơ bản,12.0,Không thuộc dự án,Đường Số 8,Phường Hiệp Bình Phước,Thủ Đức
+Nhà riêng,130.0,5,4,3,Cơ bản,13.0,Không thuộc dự án,Đường Dương Quảng Hàm,Phường 5,Gò Vấp
+Nhà riêng,238.0,5,4,2,Cơ bản,45.0,Không thuộc dự án,Đường Hòa Hưng,Phường 12,10
+Nhà riêng,140.0,5,4,4,Cơ bản,40.0,Không thuộc dự án,Đường 3/2,Phường 12,10
+Nhà riêng,60.0,3,4,3,Cơ bản,12.5,Không thuộc dự án,Đường 12,Phường Trường Thọ,Thủ Đức
+Nhà riêng,90.0,4,4,4,Cơ bản,28.0,Không thuộc dự án,Đường Tô Hiến Thành,Phường 12,10
+Nhà riêng,50.0,2,2,1,Cơ bản,7.0,Không thuộc dự án,Đường Nguyễn Oanh,Phường 17,Gò Vấp
+Nhà riêng,70.0,2,1,1,Cơ bản,10.0,Không thuộc dự án,Đường Lê Đức Thọ,Phường 15,Gò Vấp
+Nhà riêng,158.0,5,3,3,Cơ bản,22.0,Không thuộc dự án,Đường Sơn Kỳ,Phường Sơn Kỳ,Tân Phú
+Nhà riêng,80.0,5,5,3,Cơ bản,20.0,Không thuộc dự án,Đường Bàu Cát,Phường 12,Tân Bình
+Nhà riêng,78.0,3,4,3,Cơ bản,14.0,Không thuộc dự án,Đường Liên Phường,Phường Phước Long B,9
+Nhà riêng,75.0,3,3,3,Cơ bản,9.0,Không thuộc dự án,Đường Điện Biên Phủ,Phường 17,Bình Thạnh
+Nhà riêng,200.0,5,4,2,Cơ bản,45.0,Không thuộc dự án,Đường Nguyễn Quý Cảnh,Phường An Phú,2
+Nhà riêng,100.0,4,4,4,Cơ bản,12.0,Dự án Him Lam Kênh Tẻ,Đường Nguyễn Hữu Thọ,Phường Tân Hưng,7
+Nhà riêng,160.0,2,3,2,Cơ bản,45.0,Không thuộc dự án,Đường Cộng Hòa,Phường 13,Tân Bình
+Nhà riêng,81.0,2,2,4,Cơ bản,13.0,Không thuộc dự án,Đường Hoàng Văn Thụ,Phường 9,Phú Nhuận
+Nhà riêng,80.0,2,2,2,Không nội thất,11.0,Không thuộc dự án,C1/65 Đường Phạm Hùng,Phường 4,8
+Nhà riêng,180.0,2,2,3,Cơ bản,22.0,Không thuộc dự án,Đường Bình Quới,Phường 28,Bình Thạnh
+Nhà riêng,50.6,3,4,2,Cơ bản,7.0,Không thuộc dự án,Đường Thạnh Lộc 13,Phường Thạnh Lộc,12
+Nhà riêng,100.0,3,4,4,Cơ bản,45.0,Không thuộc dự án,Đường Nguyễn Đình Chiểu,Phường Đa Kao,1
+Nhà riêng,60.0,3,2,2,Cơ bản,8.0,Không thuộc dự án,Đường Số 182,Phường Tăng Nhơn Phú A,9
+Nhà riêng,120.0,3,3,2,Không nội thất,9.0,Không thuộc dự án,Đường Lê Đình Cẩn,Phường Tân Tạo,Bình Tân
+Nhà riêng,50.0,2,2,2,Có tiện nghi cơ bản,7.0,Không thuộc dự án,Đường Nguyễn Oanh,Phường 17,Gò Vấp
+Nhà riêng,45.6,3,3,5,Cơ bản,20.0,Không thuộc dự án,Đường Phan Văn Trị,Phường 11,Bình Thạnh
+Nhà riêng,126.0,4,4,3,Đầy đủ,46.0,Dự án Phú Mỹ Hưng,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà riêng,56.0,4,2,2,Cơ bản,7.5,Không thuộc dự án,Đường Kinh Dương Vương,Phường An Lạc,Bình Tân
+Nhà riêng,127.0,5,4,3,Cơ bản,45.0,Dự án Phú Mỹ Hưng,Đường Nguyễn Văn Linh,Phường Tân Phong,7
+Nhà riêng,64.0,2,4,2,Không nội thất,14.0,Không thuộc dự án,Đường Nguyên Hồng,Phường 11,Bình Thạnh
+Nhà riêng,36.3,1,1,2,Đầy đủ,9.0,Không thuộc dự án,Đường Trần Đình Xu,Phường Cầu Kho,1
+Nhà riêng,82.0,4,3,2,Không nội thất,28.0,Không thuộc dự án,Đường Nguyễn Minh Hoàng,Phường 12,Tân Bình
+Nhà riêng,105.0,4,3,2,Cơ bản,16.0,Không thuộc dự án,Đường Diên Hồng,Phường 1,Bình Thạnh
+Nhà riêng,44.0,1,2,2,Cơ bản,15.0,Không thuộc dự án,Đường Thích Quảng Đức,Phường 5,Phú Nhuận
+Nhà riêng,44.0,2,2,2,Cơ bản,11.0,Không thuộc dự án,Đường Võ Duy Ninh,Phường 22,Bình Thạnh
+Nhà riêng,48.0,2,2,2,Cơ bản,7.0,Không thuộc dự án,Đường Nguyễn Văn Linh,Phường Bình Thuận,7
+Nhà riêng,150.0,7,5,5,Cơ bản,40.0,Không thuộc dự án,Đường Quách Văn Tuấn,Phường 12,Tân Bình
+Nhà riêng,105.0,5,4,5,Cơ bản,45.0,Không thuộc dự án,Đường Trần Huy Liệu,Phường 8,Phú Nhuận
+Nhà riêng,120.0,5,4,3,Cơ bản,15.0,Không thuộc dự án,Đường Số 25,Phường Hiệp Bình Chánh,Thủ Đức
+Nhà riêng,60.0,4,5,4,Đầy đủ,18.0,Không thuộc dự án,Đường Mã Lò,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,104.0,6,6,5,Cơ bản,17.0,Không thuộc dự án,Đường Mã Lò,Phường Bình Hưng Hòa A,Bình Tân
+Nhà riêng,64.0,4,4,4,Cơ bản,14.0,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Tân Tạo,Bình Tân
+Nhà riêng,64.0,3,4,3,Cơ bản,10.0,Không thuộc dự án,Đường Hương lộ 2,Phường Bình Trị Đông A,Bình Tân
+Nhà riêng,48.0,3,3,3,Cơ bản,9.0,Không thuộc dự án,Đường Trương Phước Phan,Phường Bình Trị Đông,Bình Tân
+Nhà riêng,75.0,2,2,2,Cơ bản,9.0,Không thuộc dự án,Đường Tỉnh Lộ 10,Phường Bình Trị Đông A,Bình Tân
