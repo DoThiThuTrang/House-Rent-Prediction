@@ -27,6 +27,8 @@
 * **Ngôn ngữ lập trình:** Python
 
 # [CÁC BƯỚC CẦN THIẾT](#top)
+<img src='./Images/Flow chart.png'>
+
 ## 1. Thu thập dữ liệu 
 ### a. Nguồn dữ liệu: 
 ### b. Công cụ sử dụng:
