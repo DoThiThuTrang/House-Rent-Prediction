@@ -12,12 +12,12 @@
 [![Status](https://img.shields.io/badge/status-done-blue?style=flat-square)](https://github.com/DoThiThuTrang/House-Rent-Prediction)
 [![Status](https://img.shields.io/badge/language-python-blue?style=flat-square)](https://github.com/DoThiThuTrang/House-Rent-Prediction)
 
-## [BẢNG MỤC LỤC](#top)
+# [BẢNG MỤC LỤC](#top)
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Thông tin đồ án](#thông-tin-đồ-án)
 * [Các bước cần thiết](#các-bước-cần-thiết)
   
-## [GIỚI THIỆU MÔN HỌC](#top)
+# [GIỚI THIỆU MÔN HỌC](#top)
 * **Tên môn học:** Phân tích dữ liệu - Data Analysis
 * **Mã môn học:** IE224
 * **Mã lớp:** IE224.O11.CNCL
